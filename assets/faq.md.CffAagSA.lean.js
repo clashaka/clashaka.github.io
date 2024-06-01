@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e,a4 as o}from"./chunks/framework.fP-Dn4_C.js";const h=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"faq.md","filePath":"faq.md","lastUpdated":null}'),l={name:"faq.md"},r=o("",9),s=[r];function n(_,i,c,d,p,u){return e(),a("div",null,s)}const m=t(l,[["render",n]]);export{h as __pageData,m as default};
