@@ -1,0 +1,1 @@
+import{_ as t,c as l,o as a,a4 as e}from"./chunks/framework.CSr-4pze.js";const g=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"faq.md","filePath":"faq.md","lastUpdated":null}'),o={name:"faq.md"},r=e("",13),s=[r];function i(n,_,p,c,d,u){return a(),l("div",null,s)}const h=t(o,[["render",i]]);export{g as __pageData,h as default};
