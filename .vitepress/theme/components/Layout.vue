@@ -8,7 +8,9 @@ const { Layout } = DefaultTheme
     <Layout>
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
-            <img src="/images/ads/20240721.gif" alt="赞助商广告" />
+            <a href="https://hjhjhj.hjdns.top/#/register?code=zuhkz7lQ">
+                <img src="/images/ads/20240721.gif" alt="赞助商广告" />
+            </a>
         </template>
         <template #aside-outline-after>
             <a class="sponsor-aside" href="/contact">成为赞助商</a>
