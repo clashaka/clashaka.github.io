@@ -9,7 +9,6 @@ export default defineConfig({
   lang: 'zh-CN',
   srcDir: './src',
   metaChunk: true,
-  mpa: true,
   lastUpdated: true,
   sitemap: {
     hostname: 'https://ygpy.net',
