@@ -25,7 +25,7 @@ import { ref, computed, onMounted, onBeforeUnmount } from 'vue';
 const props = defineProps({
   targetDate: {
     type: String,
-    required: true,
+    required: true
   },
 });
 
@@ -58,7 +58,7 @@ function calculateTimeLeft(date) {
     days: Math.floor(difference / (1000 * 60 * 60 * 24)),
     hours: Math.floor((difference / (1000 * 60 * 60)) % 24),
     minutes: Math.floor((difference / 1000 / 60) % 60),
-    seconds: Math.floor((difference / 1000) % 60),
+    seconds: Math.floor((difference / 1000) % 60)
   };
 }
 

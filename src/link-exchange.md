@@ -1,11 +1,12 @@
 ---
 title: 友情链接
+aside: false
 ---
 
 # {{ $frontmatter.title }}
 
 ::: info
-交换链接？在 [Telegram](https://t.me/ygpy_net) 联系我。
+如果你也想和我们交换链接，请[联系我们](/contact)吧。
 :::
 
 ##

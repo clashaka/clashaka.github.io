@@ -1,10 +1,10 @@
 ---
 title: 网址导航
-description: 一个简洁明了的网址导航目录，帮助出海者快速找到各类网络服务和资源。
+description: 一个简洁明了的网址导航目录，帮助出海者快速找到各类网络服务和资源。本网站为广大用户提供专业全面的网址导航服务。我们收集整理了数以千计的优质网站链接，涵盖各个领域，包括技术、娱乐、学习、生活等，为用户呈现一站式的网址导航体验。
 lastUpdated: false
 ---
 
-# {{ $frontmatter.title }}
+# {{ $frontmatter.title }} <Badge type="warning" text="beta" />
 
 ## 聊天助手
 

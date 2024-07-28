@@ -1,3 +1,27 @@
+@font-face {
+    font-family: 'Noto Sans Mono CJK SC';
+    src:
+        local('Noto Sans Mono CJK SC'),
+        url('/fonts/NotoSansMonoCJKsc-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Sans Mono CJK SC';
+    src:
+        local('Noto Sans Mono CJK SC Bold'),
+        url('/fonts/NotoSansMonoCJKsc-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-display: swap;
+}
+
+@media screen and (min-width: 450px) {
+    .game-cover {
+        width: 50%;
+    }
+}
+
 :root {
     --vp-font-family-base: 'Noto Sans Mono CJK SC', sans-serif;
     --vp-font-family-mono: 'Noto Sans Mono CJK SC', monospace;
@@ -23,28 +47,4 @@ img {
     display: flex;
     flex-wrap: wrap;
     margin: -8px;
-}
-
-@font-face {
-    font-family: 'Noto Sans Mono CJK SC';
-    src:
-        local('Noto Sans Mono CJK SC'),
-        url('/fonts/NotoSansMonoCJKsc-Regular.woff2') format('woff2');
-    font-weight: normal;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Noto Sans Mono CJK SC';
-    src:
-        local('Noto Sans Mono CJK SC Bold'),
-        url('/fonts/NotoSansMonoCJKsc-Bold.woff2') format('woff2');
-    font-weight: bold;
-    font-display: swap;
-}
-
-@media screen and (min-width: 450px) {
-    .game-cover {
-        width: 50%;
-    }
 }

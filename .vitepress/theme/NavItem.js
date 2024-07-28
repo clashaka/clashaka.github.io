@@ -9,7 +9,7 @@ export default [
     {
         text: '其他',
         items: [
-            { text: '游戏', link: '/games/', activeMatch: '/games/' },
+            { text: '游戏', link: '/games/', activeMatch: '/games/' }
         ]
     }
 ]

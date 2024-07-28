@@ -1,4 +1,3 @@
 User-agent: *
-Disallow: /junk/
 
 Sitemap: https://ygpy.net/sitemap.xml

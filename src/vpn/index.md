@@ -26,8 +26,8 @@
 :::
 
 [<img class="img-ads" src="/images/ads/20240704.gif" />](https://webcc01.galaxycloud.pro/#/register?code=QmQ8c9eY)
-开业大吉！使用优惠码 `kaiyedaji` 全场享 <span style="font-size:2rem;font-style:italic;font-weight:bold">5</span> 折起步 <Badge type="danger" text="骨折价" />  
-[前往体验](https://webcc01.galaxycloud.pro/#/register?code=QmQ8c9eY)&nbsp;
-[联系方式](https://t.me/GalaxyBitChannel)&nbsp;
+使用优惠码 `kaiyedaji` 5 折购买“银河云系列”套餐。
+
 [节点测试](/images/2024/07/20240704000021.webp)&nbsp;
-[价格详情](/images/2024/07/20240705054409.webp)
+[价格详情](/images/2024/07/20240705054409.webp)&nbsp;
+[联系方式](https://t.me/GalaxyBitChannel)

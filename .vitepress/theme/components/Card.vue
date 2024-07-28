@@ -4,7 +4,7 @@ defineProps({
     target: String,
     image: String,
     title: String,
-    details: String,
+    details: String
 });
 </script>
 

@@ -15,9 +15,6 @@ const { Layout } = DefaultTheme
         <template #aside-outline-after>
             <a class="sponsor-aside" href="/contact">成为赞助商</a>
         </template>
-        <template #doc-after>
-            <a class="sponsor-doc" href="/contact">成为赞助商</a>
-        </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
