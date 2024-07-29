@@ -1,9 +1,8 @@
 ---
-title: 隐私权政策
 aside: false
 ---
 
-# {{ $frontmatter.title }}
+# 隐私权政策
 
 目录表
 

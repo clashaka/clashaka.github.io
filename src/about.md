@@ -1,9 +1,8 @@
 ---
-title: 关于我们
 aside: false
 ---
 
-# {{ $frontmatter.title }}
+# 关于我们
 
 我们不生产资料，我们只是互联网的搬运工。
 

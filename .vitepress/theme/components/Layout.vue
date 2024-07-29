@@ -9,7 +9,7 @@ const { Layout } = DefaultTheme
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://hjhjhj.hjdns.top/#/register?code=zuhkz7lQ" target="_blank">
-                <img src="/images/ads/20240721.gif" alt="赞助商广告" />
+                <img src="/images/ads/20240721.gif" alt="赞助商广告" title="点击访问" />
             </a>
         </template>
         <template #aside-outline-after>

@@ -25,7 +25,7 @@
 - 新协议使代理软件不支持，尝试更换代理软件再使用
 :::
 
-[<img class="img-ads" src="/images/ads/20240704.gif" />](https://webcc01.galaxycloud.pro/#/register?code=QmQ8c9eY)
+[<img class="img-ads" src="/images/ads/20240704.gif" />](https://webcc01.galaxycloud.pro/#/register?code=QmQ8c9eY "点击访问")
 使用优惠码 `kaiyedaji` 5 折购买“银河云系列”套餐。
 
 [节点测试](/images/2024/07/20240704000021.webp)&nbsp;
