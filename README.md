@@ -1,0 +1,30 @@
+# README
+
+## 更新版本
+
+```
+npm update vitepress
+```
+
+到 package.json / package-lock.json 中修改版本信息
+
+```
+"devDependencies": {
+    "vitepress": "^x.x.x"
+}
+```
+
+## 部署指令
+
+```
+call git add .
+call git commit -m "Add new content"
+call cd .vitepress/dist
+call git init
+call npm run build
+call git add .
+call git commit -m "Add new content"
+call git branch -M main
+call git remote add origin https://github.com/clashaka/clashaka.github.io.git
+call git push origin HEAD:main
+```
