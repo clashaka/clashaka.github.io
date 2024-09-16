@@ -26,7 +26,7 @@
 [节点测试](/images/2024/08/20240801073641.webp)&nbsp;
 [价格详情](/images/2024/08/20240801010113.webp)
 
-## 银河云 <Badge type="danger" text="赞助商广告" />
+## 银河云[广告] <Badge type="danger" text="付费机场" />
 
 使用优惠码 `zhuanshu8` 8 折购买“银河云系列”套餐。
 
