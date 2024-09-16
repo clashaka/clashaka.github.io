@@ -1,0 +1,31 @@
+export const link = [
+    'meta',
+    { name: 'referrer', content: 'always' }
+]
+
+export default [
+    {
+        name: "自动秒收录",
+        link: "http://www.92kdh.com/"
+    },
+    {
+        name: "自动秒收录",
+        link: "http://www.wxhao.cn"
+    },
+    {
+        name: "巴适秒收录ibashi.net",
+        link: "http://ibashi.net/"
+    },
+    {
+        name: "景云导航",
+        link: "https://www.25dh.cc/"
+    },
+    {
+        name: "牛角导航网",
+        link: "https://dh.rlxx.vip/"
+    },
+    {
+        name: "REB秒收网",
+        link: "http://www.rebx.net/"
+    }
+]
