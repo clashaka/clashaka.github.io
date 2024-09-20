@@ -26,9 +26,9 @@
 [节点测试](/images/2024/08/20240801073641.webp)&nbsp;
 [价格详情](/images/2024/08/20240801010113.webp)
 
-## 银河云[广告] <Badge type="danger" text="付费机场" />
+## 银河云 <Badge type="danger" text="赞助商广告" />
 
-使用优惠码 `zhuanshu8` 8 折购买“银河云系列”套餐。
+使用优惠码 `midautumn` 7.5 折购买“银河云系列”套餐。
 
 节点位置：香港、美国、日本、新加坡、台湾
 
@@ -44,3 +44,24 @@
 :::
 
 > <Deadline targetDate="2024-09-21 12:00:00" />
+
+<!-- ## 蜂窝 VPN <Badge type="danger" text="赞助商广告" />
+
+1 元即可体验“蜂窝 VPN 不限时”套餐。
+
+`五线接入` `永不失联` `价格平民` `不限速度`
+
+节点位置：香港、美国、日本、新加坡、台湾、韩国、德国、英国、加拿大、澳大利亚、印度、巴西、越南、阿联酋、哈萨克斯坦、荷兰、波兰、印尼、瑞典、西班牙、马来西亚、法国
+
+协议类型：Shadowsocks
+
+[前往注册](https://x.fengwo.online/#/register?code=V7viRyig)&nbsp;
+[联系方式](https://t.me/FengWoVpn5188)&nbsp;
+[节点测试](/images/2024/09/20240918144141.webp)&nbsp;
+[价格详情](/images/2024/09/20240918143911.webp)
+
+::: info
+无需验证
+:::
+
+> <Deadline targetDate="2024-10-21 12:00:00" /> -->
