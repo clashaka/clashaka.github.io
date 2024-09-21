@@ -11,7 +11,7 @@ const { Layout } = DefaultTheme
             <a href="https://x.fengwo.online/#/register?code=V7viRyig" target="_blank">
                 <img src="/images/ads/20240921.webp" alt="赞助商广告" title="点击访问" />
             </a>
-            <!-- <span class="sponsor-code">优惠码：midautumn</span> -->
+            <!-- <span class="sponsor-code">优惠码：</span> -->
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>

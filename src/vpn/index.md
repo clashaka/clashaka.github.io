@@ -26,25 +26,6 @@
 [节点测试](/images/2024/08/20240801073641.webp)&nbsp;
 [价格详情](/images/2024/08/20240801010113.webp)
 
-<!-- ## 银河云 <Badge type="danger" text="赞助商广告" />
-
-使用优惠码 `midautumn` 7.5 折购买“银河云系列”套餐。
-
-节点位置：香港、美国、日本、新加坡、台湾
-
-协议类型：Trojan
-
-[前往注册](https://webcc01.galaxycloud.pro/#/register?code=QmQ8c9eY)&nbsp;
-[联系方式](https://t.me/GalaxyBitChannel)&nbsp;
-[节点测试](/images/2024/08/20240821120000.webp)&nbsp;
-[价格详情](/images/2024/08/20240826112248.webp)
-
-::: info
-无需验证
-:::
-
-> <Deadline targetDate="2024-09-21 12:00:00" /> -->
-
 ## 蜂窝 VPN <Badge type="danger" text="赞助商广告" />
 
 1 元即可体验“蜂窝 VPN 不限时”套餐。
