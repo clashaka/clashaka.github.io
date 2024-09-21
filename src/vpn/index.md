@@ -26,7 +26,7 @@
 [节点测试](/images/2024/08/20240801073641.webp)&nbsp;
 [价格详情](/images/2024/08/20240801010113.webp)
 
-## 银河云 <Badge type="danger" text="赞助商广告" />
+<!-- ## 银河云 <Badge type="danger" text="赞助商广告" />
 
 使用优惠码 `midautumn` 7.5 折购买“银河云系列”套餐。
 
@@ -43,9 +43,9 @@
 无需验证
 :::
 
-> <Deadline targetDate="2024-09-21 12:00:00" />
+> <Deadline targetDate="2024-09-21 12:00:00" /> -->
 
-<!-- ## 蜂窝 VPN <Badge type="danger" text="赞助商广告" />
+## 蜂窝 VPN <Badge type="danger" text="赞助商广告" />
 
 1 元即可体验“蜂窝 VPN 不限时”套餐。
 
@@ -64,4 +64,4 @@
 无需验证
 :::
 
-> <Deadline targetDate="2024-10-21 12:00:00" /> -->
+> <Deadline targetDate="2024-10-21 12:00:00" />
