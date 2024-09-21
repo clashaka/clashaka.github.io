@@ -47,5 +47,5 @@ lastUpdated: false
 
 系统平台：Chrome、Firefox、Edge、Opera
 
-[前往下载](https://github.com/dessant/buster)
+[前往下载](https://github.com/dessant/buster)&nbsp;
 [使用教程](https://github.com/dessant/buster/wiki)
