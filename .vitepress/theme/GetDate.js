@@ -6,7 +6,8 @@ let thisYear = [];
 let lastYear = [];
 
 function getMonth(N, M) {
-    month = '0' + M;
+    // month = '0' + M;
+    month = M;
     if (M > N) {
         items.unshift({ text: `${year} 年`, items: thisYear });
         while (M >= N) {
