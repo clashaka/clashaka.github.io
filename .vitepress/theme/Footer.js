@@ -3,7 +3,7 @@ import link from './Link.js'
 let linkString = '';
 
 for (let i = 0; i < link.length; i++) {
-    linkString += `<a style="color:transparent;" href="${link[i].link}" target="_blank">${link[i].name}</a>`
+    linkString += `<a style="color:transparent;" href="${link[i].link}" target="_blank" rel="noopener noreferrer">${link[i].name}</a>`
 }
 
 export default {
