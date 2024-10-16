@@ -17,6 +17,18 @@ const { Layout } = DefaultTheme
             <div class="before"></div>
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
+        <template #aside-outline-before>
+            <a href="https://invite.jisujs.com?code=952550" target="_blank">
+                <img src="/images/ads/2024101600.webp" alt="极速VPN 注册立即获得免费时长30分钟，绑定我的邀请码(952550)额外赠送免费时长30分钟" title="点击访问" />
+            </a>
+            <br>
+        </template>
+        <template #doc-footer-before>
+            <a href="https://invite.jisujs.com?code=952550" target="_blank">
+                <img src="/images/ads/2024101601.webp" alt="极速VPN 注册立即获得免费时长30分钟，绑定我的邀请码(952550)额外赠送免费时长30分钟" title="点击访问" />
+            </a>
+            <br>
+        </template>
     </Layout>
 </template>
 
@@ -50,7 +62,7 @@ const { Layout } = DefaultTheme
 
 .sponsor-sidebar,
 img {
-    background-color: var(--vp-c-bg);
+    background-color: var(--vp-c-bg-alt);
 }
 
 img {
