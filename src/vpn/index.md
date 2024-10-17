@@ -24,7 +24,7 @@
 - 服务商失联
 :::
 
-[<img class="img-ads" src="/images/ads/20240801.gif" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
+[<img class="img-ads" src="/images/ads/20240801.webp" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
 使用优惠码 `ygpy` 5 折购买“红杏系列”套餐。
 > 📢 红杏机场新上线地区，还不快来体验！看看都有哪些地区吧 [节点位置](/images/2024/09/20240923162826.webp) 👈  
 限时促销，低至 5 元！专享 IEPL 线路、流媒体解锁、晚高峰稳定 👍  
