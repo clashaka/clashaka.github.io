@@ -54,4 +54,4 @@
 无需验证。
 :::
 
-> <Deadline targetDate="2024-10-21 12:00:00" />
+> <Deadline targetDate="2024-11-21 12:00:00" />
