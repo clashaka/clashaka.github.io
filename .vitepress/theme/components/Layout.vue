@@ -9,7 +9,7 @@ const { Layout } = DefaultTheme
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://x.fengwo.online/#/register?code=V7viRyig" target="_blank">
-                <img src="/images/ads/20240921.webp" alt="赞助商广告" title="点击访问" />
+                <img src="/images/ads/20241021.webp" alt="赞助商广告" title="点击访问" />
             </a>
             <!-- <span class="sponsor-code">优惠码：</span> -->
         </template>
