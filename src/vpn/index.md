@@ -29,7 +29,7 @@
 > 📢 红杏机场新上线地区，还不快来体验！看看都有哪些地区吧 [节点位置](/images/2024/09/20240923162826.webp) 👈  
 限时促销，低至 5 元！专享 IEPL 线路、流媒体解锁、晚高峰稳定 👍  
 [前往体验](https://hongxingdl.com/web/#/login?code=CPXZlpWz)&nbsp;
-[联系方式](https://t.me/hongxingd)&nbsp;
+[联系方式](https://t.me/hongxingd1)&nbsp;
 [节点测试](/images/2024/08/20240801073641.webp)&nbsp;
 [价格详情](/images/2024/08/20240801010113.webp)
 
