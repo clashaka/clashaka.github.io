@@ -34,7 +34,7 @@ function getMonth(N, M) {
 
 // 2. N-M 月，当 N>M 时，N 从去年计算
 // 3. 如果 home 页面涉及此数据，请人工更新
-getMonth(6, 10);
+getMonth(6, 11);
 export default {
     year,
     month,
