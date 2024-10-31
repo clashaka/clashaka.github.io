@@ -13,13 +13,13 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /vpn/2024/10
+      link: /vpn/2024/11
 
 features:
   - icon: ✈️
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
-    link: /vpn/2024/10
+    link: /vpn/2024/11
     linkText: 开始阅读
   - icon: 💾
     title: 软件列表
