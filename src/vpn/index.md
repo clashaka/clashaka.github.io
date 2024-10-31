@@ -24,7 +24,7 @@
 - 服务商失联
 :::
 
-[<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
+[<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏加速器赞助商广告" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
 使用优惠码 `ygpy` 5 折购买“红杏系列”套餐。
 
 `IEPL 专线路` `设备不限制` `流媒体解锁` `晚高峰稳定`
