@@ -38,7 +38,7 @@
 [节点测试](/images/sponsor/hongxing/20240801073641.webp)&nbsp;
 [价格详情](/images/sponsor/hongxing/20240801010113.webp)
 
-## 蜂窝 VPN [赞助商广告] <Badge type="danger" text="付费机场" />
+## 蜂窝 VPN [广告] <Badge type="danger" text="付费机场" />
 
 低至 5 元起体验“蜂窝 VPN 不限时”套餐。
 
