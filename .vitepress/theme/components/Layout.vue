@@ -9,7 +9,7 @@ const { Layout } = DefaultTheme
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://x.fengwo.online/#/register?code=V7viRyig" target="_blank">
-                <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN 赞助商广告" title="点击访问" />
+                <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
             <!-- <span class="sponsor-code">优惠码：</span> -->
         </template>
@@ -18,14 +18,14 @@ const { Layout } = DefaultTheme
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
         <template #aside-outline-before>
-            <a href="https://fast999.jsjsq.cc/" target="_blank">
-                <img src="/images/sponsor/jisu/2024101600.webp" alt="极速VPN 注册立即获得免费时长30分钟，绑定我的邀请码(952550)额外赠送免费时长30分钟" title="点击访问" />
+            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
+                <!-- <img src="/images/sponsor/guolicheng/2024111100.webp" alt="果粒橙机场" title="点击访问" /> -->
             </a>
             <br>
         </template>
         <template #doc-footer-before>
-            <a href="https://fast999.jsjsq.cc/" target="_blank">
-                <img src="/images/sponsor/jisu/2024101601.webp" alt="极速VPN 注册立即获得免费时长30分钟，绑定我的邀请码(952550)额外赠送免费时长30分钟" title="点击访问" />
+            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
+                <!-- <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场" title="点击访问" /> -->
             </a>
             <br>
         </template>
