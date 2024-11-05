@@ -19,13 +19,13 @@ const { Layout } = DefaultTheme
         </template>
         <template #aside-outline-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
-                <!-- <img src="/images/sponsor/guolicheng/2024111100.webp" alt="果粒橙机场" title="点击访问" /> -->
+                <img src="/images/sponsor/guolicheng/2024111100.webp" alt="果粒橙机场" title="点击访问" />
             </a>
             <br>
         </template>
         <template #doc-footer-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
-                <!-- <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场" title="点击访问" /> -->
+                <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场" title="点击访问" />
             </a>
             <br>
         </template>
