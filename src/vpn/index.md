@@ -58,7 +58,7 @@
 [价格详情](/images/sponsor/fengwo/20241021091755.webp)
 
 ::: info
-无需验证，**如果无法访问当前网址，需要代理访问**<a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">**备用网址。**</a>
+无需验证，无法访问当前注册地址，需要代理访问<a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">备用地址。</a>
 :::
 
 > <Deadline targetDate="2024-11-21 12:00:00" />
