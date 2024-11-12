@@ -57,6 +57,8 @@
 [节点测试](/images/sponsor/fengwo/20240918144141.webp)&nbsp;
 [价格详情](/images/sponsor/fengwo/20241021091755.webp)
 
+[前往注册 2（需要代理）](https://n.fengwo.online/#/register?code=V7viRyig)&nbsp;
+
 ::: info
 无需验证。
 :::
