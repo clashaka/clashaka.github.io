@@ -4,10 +4,18 @@
 
 ## 机场推荐
 
+### 绝绝子机场
+
+使用优惠码 `绝绝子开业大吉` 0 元购买“开业特惠”300GB️/30 天套餐。
+
+[前往注册](https://www.31465.cfd/#/register?code=U2HtooxB)
+
+> 更新于：2024/11/13
+
 ### Kei Network
 
 0 元购买“免費套餐”100GB️/30 天套餐。
 
-[前往注册](https://my.kei.one/#/register?code=D8KVRrdc)&nbsp;
+[前往注册](https://my.kei.one/#/register?code=D8KVRrdc)
 
 > 更新于：2024/11/12
