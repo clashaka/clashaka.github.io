@@ -11,7 +11,7 @@ const { Layout } = DefaultTheme
             <a href="https://fengwo.sdtsd.cn/#/register?code=V7viRyig" target="_blank">
                 <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
-            <small class="sponsor-code"><a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">备用线路（需要代理）</a></small>
+            <small class="sponsor-code"><a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">备用网址（需要代理）</a></small>
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
