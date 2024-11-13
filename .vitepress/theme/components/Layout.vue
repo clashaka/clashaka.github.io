@@ -11,7 +11,7 @@ const { Layout } = DefaultTheme
             <a href="https://fengwo.sdtsd.cn/#/register?code=V7viRyig" target="_blank">
                 <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
-            <small class="sponsor-code"><a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">备用网址（需要代理）</a></small>
+            <small class="sponsor-code"><a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">* 备用线路（可能需要代理访问）</a></small>
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
@@ -21,12 +21,14 @@ const { Layout } = DefaultTheme
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
                 <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场" title="点击访问" />
             </a>
-            <br>
+            <small class="sponsor-code">* 可能需要代理访问</small>
+            <!-- <br> -->
         </template>
         <template #doc-footer-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
                 <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场" title="点击访问" />
             </a>
+            <small class="sponsor-code">* 可能需要代理访问</small>
             <br>
         </template>
     </Layout>
@@ -70,7 +72,9 @@ img {
 }
 
 .sponsor-code {
-    padding-top: 8px;
+    font-size: 12px;
+    color: var(--vp-c-text-2);
+    padding-top: 4px;
     text-align: right;
     display: block;
 }
