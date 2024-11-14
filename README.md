@@ -4,6 +4,14 @@
 
 ## 机场推荐
 
+### 水下机场
+
+注册即送“BASIC”100GB️/套餐。
+
+[前往注册](https://udwt.io/invite/uobz4ama0e)&nbsp;
+
+> 更新于：2024/11/15
+
 ### CAC Apex
 
 使用优惠码 `MFDHM11` 0 元购买“免费套餐”168GB️/30 天套餐。
