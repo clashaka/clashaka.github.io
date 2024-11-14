@@ -52,13 +52,13 @@
 
 协议类型：Shadowsocks
 
-[前往注册](https://fengwo.sdtsd.cn/#/register?code=V7viRyig)&nbsp;
+[前往注册](https://fengwo.online/#/register?code=V7viRyig)&nbsp;
 [联系方式](https://t.me/FengWoVpn1688)&nbsp;
 [节点测试](/images/sponsor/fengwo/20240918144141.webp)&nbsp;
 [价格详情](/images/sponsor/fengwo/20241021091755.webp)
 
 ::: info
-无需验证，无法访问当前注册地址，需要代理访问<a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">备用线路。</a>
+无需验证，可能需要代理访问。
 :::
 
 > <Deadline targetDate="2024-11-21 12:00:00" />

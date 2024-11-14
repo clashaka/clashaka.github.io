@@ -8,14 +8,14 @@ const { Layout } = DefaultTheme
     <Layout>
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
-            <a href="https://fengwo.sdtsd.cn/#/register?code=V7viRyig" target="_blank">
+            <a href="https://fengwo.online/#/register?code=V7viRyig" target="_blank">
                 <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
-            <small class="sponsor-code">
+            <!-- <small class="sponsor-code">
                 <a href="https://n.fengwo.online/#/register?code=V7viRyig" target="_blank">
                     <u>访问备用线路（需要代理）</u>
                 </a>
-            </small>
+            </small> -->
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
