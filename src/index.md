@@ -1,6 +1,6 @@
 ---
 title: 一个朋友
-titleTemplate: 每日免费机场推荐
+titleTemplate: 免费机场推荐
 layout: home
 
 hero:

@@ -12,7 +12,7 @@ import {
 const members = [
   {
     avatar: 'images/avatar-vpn.webp',
-    name: '朋友的 VPN（免费机场）',
+    name: '一个朋友',
     title: '频道',
     links: [
       {

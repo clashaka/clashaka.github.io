@@ -1,5 +1,4 @@
 --- 
-description: 罗列常用代理软件，如 v2rayN、v2rayNG、Clash Verge Rev、Clash Meta for Android 等。
 lastUpdated: false
 ---
 

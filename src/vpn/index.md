@@ -24,7 +24,7 @@
 - 服务商失联
 :::
 
-[<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏加速器" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
+[<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏加速器机场推荐" />](https://hongxingdl.com/web/#/login?code=CPXZlpWz "点击访问")
 &nbsp;**红杏加速器** [广告]
 
 使用优惠码 `ygpy` 5 折购买“红杏系列”套餐。
