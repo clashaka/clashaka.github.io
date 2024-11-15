@@ -16,11 +16,11 @@ export default [
     ],
     [
         'meta',
-        { name: 'twitter:title', content: '机场推荐' }
+        { name: 'twitter:title', content: '每日免费机场推荐' }
     ],
     [
         'meta',
-        { name: 'twitter:description', content: '一个免费 VPN 机场推荐网站。涵盖免费机场、加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
+        { name: 'twitter:description', content: '一个免费机场、加速器、VPN 推荐网站。涵盖免费 VPN、加速器 VPN、机场推荐、机场 VPN、免费加速器、免费机场等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
     ],
     [
         'meta',
@@ -28,11 +28,11 @@ export default [
     ],
     [
         'meta',
-        { property: 'twitter:image:alt', content: '一个免费 VPN 机场推荐网站。涵盖免费机场、加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
+        { property: 'twitter:image:alt', content: '一个免费机场、加速器、VPN 推荐网站。涵盖免费 VPN、加速器 VPN、机场推荐、机场 VPN、免费加速器、免费机场等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
     ],
     [
         'meta',
-        { property: 'og:title', content: '机场推荐' }
+        { property: 'og:title', content: '每日免费机场推荐' }
     ],
     [
         'meta',
@@ -44,7 +44,7 @@ export default [
     ],
     [
         'meta',
-        { property: 'og:description', content: '一个免费 VPN 机场推荐网站。涵盖免费机场、加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
+        { property: 'og:description', content: '一个免费机场、加速器、VPN 推荐网站。涵盖免费 VPN、加速器 VPN、机场推荐、机场 VPN、免费加速器、免费机场等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
     ],
     [
         'meta',
@@ -72,7 +72,7 @@ export default [
     ],
     [
         'meta',
-        { property: 'og:image:alt', content: '一个免费 VPN 机场推荐网站。涵盖免费机场、加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
+        { property: 'og:image:alt', content: '一个免费机场、加速器、VPN 推荐网站。涵盖免费 VPN、加速器 VPN、机场推荐、机场 VPN、免费加速器、免费机场等。在这里找到价格折扣、促销活动以及免费试用的机会。' }
     ],
     [
         'meta',

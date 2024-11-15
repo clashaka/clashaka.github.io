@@ -8,7 +8,7 @@ const { Layout } = DefaultTheme
     <Layout>
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
-            <a href="https://fengwo.online/#/register?code=V7viRyig" target="_blank">
+            <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank">
                 <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
             <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
