@@ -22,7 +22,7 @@ const { Layout } = DefaultTheme
                 <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场" title="点击访问" />
             </a>
             <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
-            <!-- <br> -->
+            <br>
         </template>
         <template #doc-footer-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
