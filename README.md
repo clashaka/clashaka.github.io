@@ -6,9 +6,9 @@
 
 ### 水下机场
 
-注册即送“BASIC”100GB️/套餐。
+注册即送“BASIC”100GB️/1 性套餐。
 
-[前往注册](https://udwt.io/invite/uobz4ama0e)&nbsp;
+[前往注册](https://udwt.io/invite/uobz4ama0e)
 
 > 更新于：2024/11/15
 
