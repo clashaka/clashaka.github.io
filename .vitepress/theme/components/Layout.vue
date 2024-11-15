@@ -11,7 +11,7 @@ const { Layout } = DefaultTheme
             <a href="https://fengwo.online/#/register?code=V7viRyig" target="_blank">
                 <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝 VPN" title="点击访问" />
             </a>
-            <small class="sponsor-code">* 可能需要代理访问</small>
+            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
@@ -21,14 +21,14 @@ const { Layout } = DefaultTheme
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
                 <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场" title="点击访问" />
             </a>
-            <small class="sponsor-code">* 可能需要代理访问</small>
+            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
             <!-- <br> -->
         </template>
         <template #doc-footer-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank">
                 <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场" title="点击访问" />
             </a>
-            <small class="sponsor-code">* 可能需要代理访问</small>
+            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
             <br>
         </template>
     </Layout>
