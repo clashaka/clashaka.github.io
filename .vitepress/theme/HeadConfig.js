@@ -79,6 +79,10 @@ export default [
         { name: 'google-adsense-account', content: 'ca-pub-4067183961394663' }
     ],
     [
+        'meta',
+        { name: 'p:domain_verify', content: '5dc8735a19805e646a10a0620c245204' }
+    ],
+    [
         'link',
         { rel: 'icon', href: '/favicon.ico' }
     ],
