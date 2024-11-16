@@ -10,7 +10,7 @@ defineProps({
 
 <template>
     <div class="card">
-        <a :href="href" class="link" :target="target">
+        <a :href="href" :target="target" rel="nofollow">
             <article class="box">
                 <div class="logo">
                     <div class="image-bg">

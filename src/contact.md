@@ -11,7 +11,7 @@ import {
 
 const members = [
   {
-    avatar: 'images/avatar-vpn.webp',
+    avatar: 'images/logo.webp',
     name: '一个朋友',
     title: '频道',
     links: [
@@ -26,7 +26,7 @@ const members = [
   },
   {
     avatar: 'images/avatar.webp',
-    name: '一个朋友',
+    name: 'ChatBot',
     title: '管理员',
     links: [
       {

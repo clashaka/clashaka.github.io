@@ -5,9 +5,8 @@ import footer from './Footer.js'
 
 export default {
     logo: {
-        light: '/images/logo-dark.webp',
-        dark: '/images/logo-light.webp',
-        alt: '一个朋友 Logo'
+        src: '/images/logo.webp',
+        alt: '一个朋友logo'
     },
     nav,
     sidebar,

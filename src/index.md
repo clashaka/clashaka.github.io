@@ -8,8 +8,8 @@ hero:
   text: 出海工具推荐网站
   tagline: 常收录试用机场、常用软件以及热门网站！
   image:
-    src: images/logo.webp
-    alt: 一个朋友 Logo
+    src: images/hero.webp
+    alt: 一个朋友logo
   actions:
     - theme: brand
       text: 开始阅读
