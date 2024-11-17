@@ -4,7 +4,7 @@ import head from './theme/HeadConfig.js'
 
 export default defineConfig({
   title: '一个朋友',
-  description: '一个免费机场、加速器、vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。',
+  description: '一个免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。',
   head,
   lang: 'zh',
   srcDir: './src',
