@@ -4,6 +4,10 @@ lastUpdated: false
 
 # 软件列表
 
+::: tip
+软件下载与视频教程链接均来自 GitHub 和 YouTube，需自行代理访问。
+:::
+
 ## v2rayN <Badge type="info" text="桌面端" />
 
 是一个适用于 Windows 的图形用户界面客户端，支持 Xray 核心和 v2fly 核心等多种核心。
@@ -22,18 +26,27 @@ lastUpdated: false
 [前往下载](https://github.com/2dust/v2rayNG)&nbsp;
 [使用教程](https://www.youtube.com/results?search_query=v2rayng%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
+## Shadowrocket <Badge type="tip" text="移动端" />
+
+是一款适用于 iOS 和 macOS 设备的基于规则的代理工具，支持广泛的网络协议和功能，以及良好的用户界面和开发者支持。
+
+系统平台：iOS、iPadOS、macOS、tvOS、visionOS
+
+[前往下载](https://apps.apple.com/us/app/shadowrocket/id932747118)&nbsp;
+[使用教程](https://www.youtube.com/results?search_query=shadowrocket%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+
 ## Clash Verge Rev <Badge type="info" text="桌面端" />
 
-是一个基于 Tauri 框架的 Clash Meta GUI 应用程序，支持 Windows、MacOS 和 Linux 操作系统。
+是一个基于 Tauri 框架的 Clash Meta GUI 应用程序。
 
-系统平台：Windows、MacOS、Linux
+系统平台：Windows、macOS、Linux
 
 [前往下载](https://github.com/clash-verge-rev/clash-verge-rev)&nbsp;
 [使用教程](https://www.youtube.com/results?search_query=clash+verge+rev%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 ## Clash Meta for Android <Badge type="tip" text="移动端" />
 
-是一个基于规则的 Android 隧道客户端，提供图形用户界面，支持 Android 5.0 及以上系统，并且支持多种 CPU 架构。
+是一个基于规则的 Android 隧道客户端，提供图形用户界面，支持多种 CPU 架构。
 
 系统平台：Android
 

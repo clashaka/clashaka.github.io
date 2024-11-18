@@ -9,9 +9,8 @@ const { Layout } = DefaultTheme
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="nofollow">
-                <img src="/images/sponsor/fengwo/20241021.webp" alt="蜂窝vpn机场推荐" title="点击访问" />
+                <img src="/images/sponsor/fengwo/20241021.gif" alt="蜂窝vpn机场推荐" title="点击访问" />
             </a>
-            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
@@ -21,14 +20,12 @@ const { Layout } = DefaultTheme
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="nofollow">
                 <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
             </a>
-            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
             <br>
         </template>
         <template #doc-footer-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="nofollow">
                 <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场推荐" title="点击访问" />
             </a>
-            <!-- <small class="sponsor-code">* 可能需要代理访问</small> -->
             <br>
         </template>
     </Layout>
