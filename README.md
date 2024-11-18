@@ -6,14 +6,12 @@ search: false
 
 [ygpy.net](https://ygpy.net/)，一个免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。
 
-![机场推荐](./images/large-image.webp)
+![一个朋友机场推荐](./images/large-image.webp)
 
 免费机场推荐：
 
 - [一个朋友 网站](https://ygpy.net/)
 - [Telegram 频道](https://t.me/sxtnbhz)
-
----
 
 前往更多关注：
 
