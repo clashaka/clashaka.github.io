@@ -35,7 +35,7 @@
 
 节点位置：迪拜、澳大利亚、巴西、加拿大、瑞士、智利、台湾、哥伦比亚、德国、西班牙、法国、英国、香港、以色列、印度、意大利、日本、韩国、墨西哥、荷兰、沙特阿拉伯、瑞典、新加坡、泰国、美国、越南、南非
 
-[前往体验](https://hongxingdl.com/web/#/login?code=CPXZlpWz)&nbsp;
+[前往体验](https://hongxingdl.one/web/#/login?code=CPXZlpWz)&nbsp;
 [联系方式](https://t.me/hongxingd)&nbsp;
 [节点测试](/images/sponsor/hongxing/20240801073641.webp)&nbsp;
 [价格详情](/images/sponsor/hongxing/20240801010113.webp)
