@@ -10,7 +10,7 @@
 
 协议类型：VLESS
 
-节点位置：26
+节点数量：26
 
 [前往注册](https://guolicheng.cc/index.php#/register?code=shKXijFC)&nbsp;
 [联系方式](https://t.me/Goguolichengo)&nbsp;
