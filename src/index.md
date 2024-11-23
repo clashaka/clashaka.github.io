@@ -14,6 +14,9 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /vpn/2024/11
+    - theme: alt
+      text: 常见问题
+      link: /faq
 
 features:
   - icon: ✈️
