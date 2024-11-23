@@ -10,6 +10,8 @@
 
 协议类型：VLESS
 
+节点位置：26
+
 [前往注册](https://guolicheng.cc/index.php#/register?code=shKXijFC)&nbsp;
 [联系方式](https://t.me/Goguolichengo)&nbsp;
 [节点测试](/images/sponsor/guolicheng/20241104055817.webp)&nbsp;

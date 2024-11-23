@@ -25,8 +25,6 @@
 :::
 
 [<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏加速器机场推荐" rel="nofollow" />](https://hongxingdl.one/web/#/login?code=CPXZlpWz "点击访问")
-&nbsp;**红杏加速器 [广告]** <Badge type="danger" text="付费机场" />
-
 使用优惠码 `ygpy` 5 折购买“红杏系列”套餐。
 
 `IEPL 专线路` `设备不限制` `流媒体解锁` `晚高峰稳定`
@@ -34,6 +32,10 @@
 > Secure 隧道，IEPL 安全稳定，支持家庭成员共享！
 
 节点位置：迪拜、澳大利亚、巴西、加拿大、瑞士、智利、台湾、哥伦比亚、德国、西班牙、法国、英国、香港、以色列、印度、意大利、日本、韩国、墨西哥、荷兰、沙特阿拉伯、瑞典、新加坡、泰国、美国、越南、南非
+
+协议类型：Trojan
+
+节点数量：36
 
 [前往体验](https://hongxingdl.one/web/#/login?code=CPXZlpWz)&nbsp;
 [联系方式](https://t.me/hongxingd)&nbsp;
@@ -51,6 +53,8 @@
 节点位置：澳大利亚、孟加拉、巴西、柬埔寨、加拿大、埃及、法国、德国、香港、冰岛、印度、印尼、印尼、日本、哈萨克斯坦、韩国、立陶宛、马来西亚、墨西哥、荷兰、新西兰、秘鲁、波兰、新加坡、西班牙、瑞典、泰国、台湾、土耳其、英国、乌克兰、美国、越南、阿联酋
 
 协议类型：Shadowsocks
+
+节点数量：127
 
 [前往注册](https://fengwo.online/#/login?code=V7viRyig)&nbsp;
 [联系方式](https://t.me/FengWoVpn1688)&nbsp;
