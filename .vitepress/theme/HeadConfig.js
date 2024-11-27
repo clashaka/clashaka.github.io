@@ -1,7 +1,4 @@
-import { link } from './Link.js'
-
 export default [
-    link,
     [
         'meta',
         { name: 'twitter:card', content: 'summary_large_image' }
