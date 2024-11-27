@@ -14,7 +14,7 @@
 
 [前往注册](https://guolicheng.cc/index.php#/register?code=shKXijFC)&nbsp;
 [联系方式](https://t.me/Goguolichengo)&nbsp;
-[节点测试](/images/sponsor/guolicheng/20241104055817.webp)&nbsp;
+[节点测速](/images/sponsor/guolicheng/20241104055817.webp)&nbsp;
 [价格详情](/images/sponsor/guolicheng/20241104125653.webp)
 
 ::: info

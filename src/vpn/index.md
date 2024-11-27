@@ -18,7 +18,7 @@
 [前往体验](https://hongxingdl.one/web/#/login?code=CPXZlpWz)&nbsp;
 [联系方式](https://t.me/hongxingd)&nbsp;
 [价格详情](/images/sponsor/hongxing/20240801010113.webp)&nbsp;
-[节点测试](/images/sponsor/hongxing/20240801073641.webp)
+[节点测速](/images/sponsor/hongxing/20240801073641.webp)
 
 ## 蜂窝 VPN [广告] <Badge type="danger" text="付费机场" />
 
@@ -37,7 +37,7 @@
 [前往注册](https://fengwo.online/#/login?code=V7viRyig)&nbsp;
 [联系方式](https://t.me/FengWoVpn1688)&nbsp;
 [价格详情](/images/sponsor/fengwo/20241122135554.webp)&nbsp;
-[节点测试](/images/sponsor/fengwo/20240918144141.webp)
+[节点测速](/images/sponsor/fengwo/20240918144141.webp)
 
 ::: info
 无需验证。
