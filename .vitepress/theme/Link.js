@@ -19,13 +19,5 @@ export default [
     {
         name: "景云导航",
         link: "https://www.25dh.cc/"
-    },
-    {
-        name: "牛角导航网",
-        link: "https://dh.rlxx.vip/"
-    },
-    {
-        name: "REB秒收网",
-        link: "http://www.rebx.net/"
     }
 ]
