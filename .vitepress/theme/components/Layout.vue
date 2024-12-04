@@ -8,7 +8,7 @@ const { Layout } = DefaultTheme
     <Layout>
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
-            <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="nofollow">
+            <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="noreferrer nofollow">
                 <img src="/images/sponsor/fengwo/20241021.gif" alt="蜂窝vpn机场推荐" title="点击访问" />
             </a>
         </template>
@@ -17,13 +17,13 @@ const { Layout } = DefaultTheme
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
         <template #aside-outline-before>
-            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="nofollow">
+            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
             </a>
             <br>
         </template>
         <template #doc-footer-before>
-            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="nofollow">
+            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场推荐" title="点击访问" />
             </a>
             <br>

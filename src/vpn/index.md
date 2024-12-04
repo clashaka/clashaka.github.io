@@ -2,7 +2,9 @@
 本站仅供学习使用，请勿用于非法活动。
 :::
 
-[<img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏云机场推荐" rel="nofollow" />](https://hongxingdl.one/web/#/login?code=CPXZlpWz "点击访问")
+<a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" title="点击访问" target="_blank" rel="noreferrer nofollow">
+    <img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏云机场推荐">
+</a>
 使用优惠码 `ygpy` 5 折购买“红杏云系列”套餐。
 
 `IEPL 专线路` `设备不限制` `流媒体解锁` `晚高峰稳定`
@@ -15,8 +17,8 @@
 
 节点数量：36
 
-[前往体验](https://hongxingdl.one/web/#/login?code=CPXZlpWz)&nbsp;
-[联系方式](https://t.me/hongxingd)&nbsp;
+<a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
+<a href="https://t.me/hongxingd" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
 
@@ -34,8 +36,8 @@
 
 节点数量：127
 
-[前往注册](https://fengwo.online/#/login?code=V7viRyig)&nbsp;
-[联系方式](https://t.me/FengWoVpn1688)&nbsp;
+<a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
+<a href="https://t.me/FengWoVpn1688" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/fengwo/20241122135554.webp)&nbsp;
 [节点测速](/images/sponsor/fengwo/20240918144141.webp)
 

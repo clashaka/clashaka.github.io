@@ -12,8 +12,8 @@
 
 节点数量：26
 
-[前往注册](https://guolicheng.cc/index.php#/register?code=shKXijFC)&nbsp;
-[联系方式](https://t.me/Goguolichengo)&nbsp;
+<a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
+<a href="https://t.me/Goguolichengo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/guolicheng/20241104125653.webp)&nbsp;
 [节点测速](/images/sponsor/guolicheng/20241104055817.webp)
 
@@ -25,4 +25,8 @@
 
 ---
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://ygpy.net/">免费机场</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://ygpy.net/about.html">一个朋友</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0</a></p>
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
+    <small>
+        <a property="dct:title" rel="cc:attributionURL" href="https://ygpy.net/">免费机场</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://ygpy.net/about.html">一个朋友</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer nofollow" style="display:inline-block;">CC BY-NC-ND 4.0</a>
+    </small>
+</p>
