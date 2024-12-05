@@ -18,7 +18,7 @@
 节点数量：36
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
-<a href="https://t.me/hongxingd" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+<a href="https://t.me/hxygroups" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
 
