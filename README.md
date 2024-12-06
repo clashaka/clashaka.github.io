@@ -6,7 +6,7 @@ search: false
 
 [ygpy.net](https://ygpy.net/)，一个免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。
 
-<a href="https://ygpy.net/" title="点击访问">
+<a href="https://ygpy.net/" target="_blank" title="点击访问">
     <img src="./images/1.webp">
     <img src="./images/2.webp">
 </a>
