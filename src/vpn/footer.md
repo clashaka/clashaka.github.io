@@ -17,7 +17,7 @@
 [价格详情](/images/sponsor/guolicheng/20241104125653.webp)&nbsp;
 [节点测速](/images/sponsor/guolicheng/20241104055817.webp)
 
-::: info
+::: info 注冊信息
 无需验证。
 :::
 

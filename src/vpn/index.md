@@ -41,7 +41,7 @@
 [价格详情](/images/sponsor/fengwo/20241122135554.webp)&nbsp;
 [节点测速](/images/sponsor/fengwo/20240918144141.webp)
 
-::: info
+::: info 注冊信息
 无需验证。
 :::
 
