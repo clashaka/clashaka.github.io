@@ -9,7 +9,17 @@ const { Layout } = DefaultTheme
         <template #sidebar-nav-after>
             <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="noreferrer nofollow">
-                <img src="/images/sponsor/fengwo/20241021.gif" alt="蜂窝vpn机场推荐" title="点击访问" />
+                <div class="ad-container">
+                    <img src="/images/sponsor/fengwo/20241021.gif" alt="蜂窝vpn机场推荐" title="点击访问" />
+                    <span class="ad-text">广告</span>
+                </div>
+            </a>
+            <br>
+            <a href="https://ber1.fnjs7.xyz/" target="_blank" rel="noreferrer nofollow">
+                <div class="ad-container">          
+                    <img src="/images/sponsor/feiniao/20241209.gif" alt="飞鸟加速器VPN推荐" title="点击访问" />
+                    <span class="ad-text">广告</span>
+                </div>
             </a>
         </template>
         <template #nav-bar-content-after>
@@ -18,15 +28,21 @@ const { Layout } = DefaultTheme
         </template>
         <template #aside-outline-before>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
-                <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
+                <div class="ad-container">
+                    <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
+                    <span class="ad-text">广告</span>
+                </div>
             </a>
             <br>
         </template>
-        <template #doc-footer-before>
-            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
-                <img src="/images/sponsor/guolicheng/2024111101.webp" alt="果粒橙机场推荐" title="点击访问" />
-            </a>
+        <template #nav-screen-content-after>
             <br>
+            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
+                <div class="ad-container">
+                    <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
+                    <span class="ad-text">广告</span>
+                </div>
+            </a>
         </template>
     </Layout>
 </template>
