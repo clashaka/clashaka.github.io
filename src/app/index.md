@@ -5,7 +5,7 @@ lastUpdated: false
 # 软件列表
 
 ::: tip
-软件下载与视频教程链接均来自 GitHub 和 YouTube，需自行代理访问。
+软件下载与视频教程链接均来自 GitHub 和 YouTube，需自行解决网络问题。
 :::
 
 ## v2rayN <Badge type="info" text="桌面端" />
