@@ -1,6 +1,6 @@
 ## 果粒橙机场 [广告] <Badge type="danger" text="付费机场" />
 
-低至 5 元购买“果粒橙直连”1000GB/30 天套餐。
+5 元购买“果粒橙直连”1000GB️/30 天套餐。
 
 `直连 & 中转套餐选择` `10Gbps 网络带宽` `流媒体全解锁` `支持团队和合租`
 
@@ -10,18 +10,18 @@
 
 协议类型：VLESS
 
-节点数量：26
+节点数量：24
 
-<a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
-<a href="https://t.me/Goguolichengo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/guolicheng/20241104125653.webp)&nbsp;
-[节点测速](/images/sponsor/guolicheng/20241104055817.webp)
+<a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/Goguolicheng" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/guolicheng/20241211095024.webp)&nbsp;
+[节点测速](/images/sponsor/guolicheng/20241211095024.png)
 
-::: info 注冊信息
+::: info 注册信息
 无需验证。
 :::
 
-> <Deadline targetDate="2024-12-11 12:00:00" />
+> <Deadline targetDate="2025-01-11 12:00:00" />
 
 ---
 
