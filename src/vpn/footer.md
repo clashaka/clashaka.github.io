@@ -1,3 +1,28 @@
+## 秒连云 [广告] <Badge type="danger" text="付费机场" />
+
+使用优惠码 `MLY50` 5 折购买“秒连云不限时系列”套餐。
+
+`4K 秒开` `60+ 节点` `20% 返利` `超值套餐`
+
+> 高速中转线路，畅享全球流媒体，全球节点覆盖！
+
+节点位置：香港、日本、新加坡、美国、台湾
+
+协议类型：Shadowsocks
+
+节点数量：64
+
+<a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/miaolianyun" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/miaolianyun/20241212002031.webp)&nbsp;
+[节点测速](/images/sponsor/miaolianyun/20241212002031.jpg)
+
+::: info 注册信息
+无需验证。
+:::
+
+> <Deadline targetDate="2025-01-12 12:00:00" />
+
 ## 果粒橙机场 [广告] <Badge type="danger" text="付费机场" />
 
 5 元购买“果粒橙直连”1000GB️/30 天套餐。
