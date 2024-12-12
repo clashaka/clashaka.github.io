@@ -15,7 +15,7 @@
 <a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/miaolianyun" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/miaolianyun/20241212002031.webp)&nbsp;
-[节点测速](/images/sponsor/miaolianyun/20241212002031.jpg)
+[节点测速](/images/sponsor/miaolianyun/20241212002031.png)
 
 ::: info 注册信息
 无需验证。

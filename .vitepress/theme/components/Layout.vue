@@ -27,6 +27,13 @@ const { Layout } = DefaultTheme
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
         <template #aside-outline-before>
+            <a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">
+                <div class="gg-container">
+                    <img src="/images/sponsor/miaolianyun/20241212.gif" alt="秒连云机场推荐" title="点击访问" />
+                    <span class="gg-text">广告</span>
+                </div>
+            </a>
+            <br>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
