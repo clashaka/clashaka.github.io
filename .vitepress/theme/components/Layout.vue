@@ -11,14 +11,14 @@ const { Layout } = DefaultTheme
             <a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/fengwo/20241021.gif" alt="蜂窝vpn机场推荐" title="点击访问" />
-                    <span class="gg-text">广告</span>
+                    <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
             <br>
             <a href="https://ber1.fnjs7.xyz/" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">          
                     <img src="/images/sponsor/feiniao/20241209.gif" alt="飞鸟加速器VPN推荐" title="点击访问" />
-                    <span class="gg-text">广告</span>
+                    <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
         </template>
@@ -30,14 +30,14 @@ const { Layout } = DefaultTheme
             <a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/miaolianyun/20241212.gif" alt="秒连云机场推荐" title="点击访问" />
-                    <span class="gg-text">广告</span>
+                    <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
             <br>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
-                    <span class="gg-text">广告</span>
+                    <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
             <br>
@@ -47,7 +47,7 @@ const { Layout } = DefaultTheme
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
-                    <span class="gg-text">广告</span>
+                    <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
         </template>
