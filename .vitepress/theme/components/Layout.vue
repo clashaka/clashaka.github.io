@@ -50,6 +50,13 @@ const { Layout } = DefaultTheme
                     <!-- <span class="gg-text">gg</span> -->
                 </div>
             </a>
+            <br>
+            <a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">
+                <div class="gg-container">
+                    <img src="/images/sponsor/miaolianyun/20241212.gif" alt="秒连云机场推荐" title="点击访问" />
+                    <!-- <span class="gg-text">gg</span> -->
+                </div>
+            </a>
         </template>
     </Layout>
 </template>
