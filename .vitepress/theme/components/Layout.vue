@@ -22,10 +22,6 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
         </template>
-        <template #nav-bar-content-after>
-            <div class="before"></div>
-            <a href="/contact" class="nav VPBadge info">成为赞助商</a>
-        </template>
         <template #aside-outline-before>
             <a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
@@ -41,6 +37,10 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <br>
+        </template>
+        <template #nav-bar-content-after>
+            <div class="before"></div>
+            <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
         <template #nav-screen-content-after>
             <br>
