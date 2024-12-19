@@ -26,7 +26,7 @@ const members = [
   },
   {
     avatar: 'images/avatar.webp',
-    name: '他的朋友',
+    name: '一个朋友',
     title: '管理员',
     links: [
       {
