@@ -25,27 +25,33 @@
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
 
-## 蜂窝 VPN [广告] <Badge type="danger" text="付费机场" />
+## 秒连云 [广告] <Badge type="danger" text="付费机场" />
 
-低至 6 元购买“高速中转”60GB/30 天套餐。
+使用优惠码购买“秒连云系列”套餐。
 
-`八线中转` `CDN 加速` `家宽节点` `千兆带宽`
+|折扣|优惠码|付款周期|
+|-|-|-|
+|6.6 折|MY66|半年付|
+|7.7 折|MY77|月付、季付|
+|8.8 折|MY88|年付|
 
-> 深港 + 沪日 + 沪美 + 广港 + 沪韩 IEPL 专线，7*24 小时客服，赠送 Emby 服务！
+`4K 秒开` `80+ 节点` `20% 返利` `超值套餐`
 
-节点位置：澳大利亚、孟加拉、巴西、柬埔寨、加拿大、埃及、法国、德国、香港、冰岛、印度、印尼、印尼、日本、哈萨克斯坦、韩国、立陶宛、马来西亚、墨西哥、荷兰、新西兰、秘鲁、波兰、新加坡、西班牙、瑞典、泰国、台湾、土耳其、英国、乌克兰、美国、越南、阿联酋
+> 高速中转线路，畅享全球流媒体，全球节点覆盖！
+
+节点位置：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士、法国、瑞典、巴西、加拿大、匈牙利、英国、印度尼西亚、韩国、俄罗斯、印度、智利
 
 协议类型：Shadowsocks
 
-节点数量：127
+节点数量：80
 
-<a href="https://fengwo.online/#/login?code=V7viRyig" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
-<a href="https://t.me/FengWoVpn1688" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/fengwo/20241122135554.webp)&nbsp;
-[节点测速](/images/sponsor/fengwo/20240918144141.webp)
+<a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/miaolianyun" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/miaolianyun/20241212002031.webp)&nbsp;
+[节点测速](/images/sponsor/miaolianyun/20241212002031.png)
 
-::: info 注冊信息
+::: info 注册信息
 无需验证。
 :::
 
-> <Deadline targetDate="2024-12-21 12:00:00" />
+> <Deadline targetDate="2025-01-12 12:00:00" />
