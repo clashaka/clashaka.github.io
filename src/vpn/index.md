@@ -4,7 +4,7 @@
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" title="点击访问" target="_blank" rel="noreferrer nofollow">
     <div class="gg-container">
-        <img class="img-ads" src="/images/sponsor/hongxing/20240801.gif" alt="红杏云机场推荐">
+        <img class="img-ads" src="/images/sponsor/hongxing/20240801.webp" alt="红杏云机场推荐">
         <span class="gg-text">赞助商广告</span>
     </div>
 </a>
