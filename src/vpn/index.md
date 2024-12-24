@@ -6,6 +6,7 @@
     <div class="gg-container">
         <img class="img-ads" src="/images/sponsor/hongxing/20240801.webp" alt="红杏云机场推荐">
         <span class="gg-text">赞助商广告</span>
+        <span class="re-text">前往体验</span>
     </div>
 </a>
 使用优惠码 `ygpy` 5 折购买“红杏云系列”套餐。

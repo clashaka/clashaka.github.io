@@ -1,6 +1,5 @@
 import nav from './NavItem.js'
 import sidebar from './Sidebar.js'
-// import socialLinks from './SocialLink.js'
 import footer from './Footer.js'
 
 export default {
@@ -13,7 +12,6 @@ export default {
     outline: {
         label: '页面导航'
     },
-    // socialLinks,
     footer,
     lastUpdated: {
         text: '最后更新于',

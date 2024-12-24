@@ -19,6 +19,7 @@ const { Layout } = DefaultTheme
                 <div class="gg-container">
                     <img src="/images/sponsor/miaolianyun/20241212.webp" alt="秒连云机场推荐" title="点击访问" />
                     <span class="gg-text">广告</span>
+                    <span class="re-text">前往体验</span>
                 </div>
             </a>
         </template>
