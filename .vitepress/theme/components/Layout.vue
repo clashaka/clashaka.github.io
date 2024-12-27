@@ -28,6 +28,9 @@ const { Layout } = DefaultTheme
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
                     <span class="gg-text">广告</span>
+                    <div class="msg">
+                        <a href="/vpn/footer">更多信息</a>
+                    </div>
                 </div>
             </a>
             <br>
@@ -42,6 +45,9 @@ const { Layout } = DefaultTheme
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
                     <span class="gg-text">广告</span>
+                    <div class="msg">
+                        <a href="/vpn/footer">更多信息</a>
+                    </div>
                 </div>
             </a>
         </template>
