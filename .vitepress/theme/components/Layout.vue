@@ -30,6 +30,9 @@ const { Layout } = DefaultTheme
                     <span class="gg-text">广告</span>
                 </div>
             </a>
+            <div class="msg">
+                <a href="/vpn/footer">更多信息</a>
+            </div>
             <br>
         </template>
         <template #nav-bar-content-after>
@@ -44,6 +47,9 @@ const { Layout } = DefaultTheme
                     <span class="gg-text">广告</span>
                 </div>
             </a>
+            <div class="msg">
+                <a href="/vpn/footer">更多信息</a>
+            </div>
         </template>
     </Layout>
 </template>
