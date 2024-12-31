@@ -1,7 +1,14 @@
 export default {
     '/vpn/': [
         {
+            text: '2025 年',
+            items: [
+                { text: '1 月', link: '/vpn/2025/01' }
+            ]
+        },
+        {
             text: '2024 年',
+            collapsed: true,
             items: [
                 { text: '12 月', link: '/vpn/2024/12' },
                 { text: '11 月', link: '/vpn/2024/11' },
