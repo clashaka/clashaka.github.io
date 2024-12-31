@@ -26,6 +26,21 @@
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
 
+::: details 促销活动：3000 元红包大放送 🧧
+<a href="https://t.me/hxygroups/36378" target="_blank" rel="noreferrer nofollow">
+    <img src="/images/sponsor/hongxing/20241231.webp">
+</a>
+元旦现金、红杏套餐大红包
+
+|奖品设置|奖品项|总价值|
+|-|-|-|
+|一等奖|现金红包 202.5 元 x3 个|608 元|
+|二等奖|现金红包 102.5 元 x5 个|513 元|
+|三等奖|红杏 1000G 不限时套餐 x3 个|270 元|
+|四等奖|现金红包 20.25 元 x10 个|202.5 元|
+|五等奖|200G 流量券 x10 个|200 元|
+:::
+
 ## 秒连云 [广告] <Badge type="danger" text="付费机场" />
 
 使用优惠码购买“秒连云系列”套餐。
