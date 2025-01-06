@@ -66,4 +66,5 @@ img {
 .msg {
     font-size: 12px;
     text-align: right;
+    color: var(--vp-c-text-2);
 }
