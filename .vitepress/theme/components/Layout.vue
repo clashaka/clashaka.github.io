@@ -17,7 +17,7 @@ const { Layout } = DefaultTheme
             </a>
         </template>
         <template #aside-outline-before>
-            <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
+            <!-- <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
                     <span class="gg-text">广告</span>
@@ -26,14 +26,14 @@ const { Layout } = DefaultTheme
             <div class="msg">
                 <a href="/vpn/footer">更多信息</a>
             </div>
-            <br>
+            <br> -->
         </template>
         <template #nav-bar-content-after>
             <div class="before"></div>
             <a href="/contact" class="nav VPBadge info">成为赞助商</a>
         </template>
         <template #nav-screen-content-after>
-            <br>
+            <!-- <br>
             <a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/guolicheng/2024111100.gif" alt="果粒橙机场推荐" title="点击访问" />
@@ -42,7 +42,7 @@ const { Layout } = DefaultTheme
             </a>
             <div class="msg">
                 <a href="/vpn/footer">更多信息</a>
-            </div>
+            </div> -->
         </template>
     </Layout>
 </template>
