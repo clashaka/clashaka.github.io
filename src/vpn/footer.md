@@ -1,27 +1,27 @@
-<!-- ## 果粒橙机场 [广告] <Badge type="danger" text="付费机场" />
+## superbiu [广告] <Badge type="danger" text="付费机场" />
 
-5 元购买“果粒橙直连”1000GB️/30 天套餐。
+使用优惠码 `ygpy` 9 折购买“superbiu 系列”套餐。
 
-`直连 & 中转套餐选择` `10Gbps 网络带宽` `流媒体全解锁` `支持团队和合租`
+`国际专线` `IPLC 线路` `50+ 节点` `不限设备`
 
-> 中转的价格，专线的速度，无视晚高峰！
+> 真专线机场，流媒体解锁，无视晚高峰！
 
-节点位置：德国、法国、韩国、美国、日本、台湾、香港、新加坡、印度
+节点位置：香港、日本、韩国、台湾、荷兰、英国、美国、泰国、新加坡、德国、俄罗斯、马来西亚、越南、阿联酋、土耳其
 
-协议类型：VLESS
+协议类型：Shadowsocks、VMess
 
-节点数量：24
+节点数量：59
 
-<a href="https://guolicheng.cc/index.php#/register?code=shKXijFC" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
-<a href="https://t.me/Goguolicheng" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/guolicheng/20241211095024.webp)&nbsp;
-[节点测速](/images/sponsor/guolicheng/20241211095024.png)
+<a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/superbiu888" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/superbiu/20250111184215.webp)&nbsp;
+[节点测速](/images/sponsor/superbiu/20250111120000.webp)
 
 ::: info 注册信息
 无需验证。
 :::
 
-> <Deadline targetDate="2025-01-11 12:00:00" /> -->
+> <Deadline targetDate="2025-02-12 12:00:00" />
 
 ---
 
