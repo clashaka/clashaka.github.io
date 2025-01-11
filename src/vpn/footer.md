@@ -1,4 +1,4 @@
-## 果粒橙机场 [广告] <Badge type="danger" text="付费机场" />
+<!-- ## 果粒橙机场 [广告] <Badge type="danger" text="付费机场" />
 
 5 元购买“果粒橙直连”1000GB️/30 天套餐。
 
@@ -21,7 +21,7 @@
 无需验证。
 :::
 
-> <Deadline targetDate="2025-01-11 12:00:00" />
+> <Deadline targetDate="2025-01-11 12:00:00" /> -->
 
 ---
 
