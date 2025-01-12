@@ -15,7 +15,7 @@
 <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/superbiu888" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/superbiu/20250111184215.webp)&nbsp;
-[节点测速](/images/sponsor/superbiu/20250111120000.webp)
+[节点测速](/images/sponsor/superbiu/20250112172959.png)
 
 ::: info 注册信息
 无需验证。
