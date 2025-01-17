@@ -25,3 +25,28 @@
 <a href="https://t.me/hxygroups" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
+
+## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" />
+
+使用优惠码 `ygpy` 8 折购买“哆啦 A 梦系列”套餐。
+
+`无地域限制` `流媒体解锁` `高稳定可靠` `多设备在线`
+
+> 海外专线，高速节点，老牌团队！
+
+节点位置：美国、香港、日本、新加坡、越南
+
+协议类型：Trojan
+
+节点数量：12
+
+<a href="https://yunfan-a.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/vpnong/20250117194558.webp)&nbsp;
+[节点测速](/images/sponsor/vpnong/20250117214300.png)
+
+::: tip 注册提示
+需要邮箱验证。
+:::
+
+> <Deadline targetDate="2025-02-18 12:00:00" />
