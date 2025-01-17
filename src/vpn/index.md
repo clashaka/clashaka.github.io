@@ -25,28 +25,3 @@
 <a href="https://t.me/hxygroups" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/hongxing/20241201000000.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20241201000001.webp)
-
-## 秒连云 [广告] <Badge type="danger" text="付费机场" />
-
-使用优惠码购买“秒连云系列”套餐。
-
-`4K 秒开` `80+ 节点` `20% 返利` `超值套餐`
-
-> 高速中转线路，畅享全球流媒体，全球节点覆盖！
-
-节点位置：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士、法国、瑞典、巴西、加拿大、匈牙利、英国、印度尼西亚、韩国、俄罗斯、印度、智利
-
-协议类型：Shadowsocks
-
-节点数量：80
-
-<a href="https://mly01.miaolianyun.my/#/register?code=EeOKOE2v" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
-<a href="https://t.me/miaolianyun" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/miaolianyun/20241212002031.webp)&nbsp;
-[节点测速](/images/sponsor/miaolianyun/20241212002031.png)
-
-::: info 注册信息
-无需验证。
-:::
-
-> <Deadline targetDate="2025-01-17 12:00:00" />
