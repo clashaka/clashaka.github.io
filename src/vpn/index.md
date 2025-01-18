@@ -38,7 +38,7 @@
 
 协议类型：Trojan
 
-节点数量：12
+节点数量：13
 
 <a href="https://yunfan-a.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;

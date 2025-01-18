@@ -12,7 +12,7 @@ const { Layout } = DefaultTheme
                 <div class="gg-container">
                     <img src="/images/sponsor/vpnong/20250118.webp" alt="哆啦A梦VPN机场推荐" title="点击访问" />
                     <span class="gg-text">广告</span>
-                    <span class="re-text">前往体验</span>
+                    <!-- <span class="re-text">前往体验</span> -->
                 </div>
             </a>
             <div class="msg">
