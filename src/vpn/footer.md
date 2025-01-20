@@ -17,8 +17,8 @@
 [价格详情](/images/sponsor/superbiu/20250111184215.webp)&nbsp;
 [节点测速](/images/sponsor/superbiu/20250112172959.png)
 
-::: info 注册信息
-无需验证。
+::: tip 注册提示
+需要邮箱验证。
 :::
 
 > <Deadline targetDate="2025-02-12 12:00:00" />
