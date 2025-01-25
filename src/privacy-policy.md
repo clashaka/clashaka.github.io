@@ -4,9 +4,9 @@ aside: false
 
 # 隐私权政策
 
-目录表
-
+::: details 目录表
 [[toc]]
+:::
 
 ## 引言
 

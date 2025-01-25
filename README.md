@@ -19,6 +19,7 @@ npm update vitepress
 ```
 call git add .
 call git commit -m "Add new content"
+call git push
 call cd .vitepress/dist
 call git init
 call npm run build

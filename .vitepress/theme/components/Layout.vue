@@ -16,7 +16,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <span>优惠码：ygpy</span>
+                <span>优惠券：ygpy</span>
             </div>
         </template>
         <template #aside-outline-before>
