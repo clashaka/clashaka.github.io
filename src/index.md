@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /vpn/2025/01
+      link: /vpn/2025/02
     - theme: alt
       text: 常见问题
       link: /faq
@@ -22,7 +22,7 @@ features:
   - icon: ✈️
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
-    link: /vpn/2025/01
+    link: /vpn/2025/02
     linkText: 开始阅读
   - icon: 💾
     title: 软件列表
