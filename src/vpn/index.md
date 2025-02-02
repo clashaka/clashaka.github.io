@@ -39,7 +39,7 @@
 - 四等奖：现金红包 20.25 元 ×10 个
 - 五等奖：202.5GB 流量券 ×20 个
 
-👉 [活动链接](https://t.me/hxygroups/60222)
+👉 [活动链接](https://t.me/hxygroups/60491)
 :::
 
 ## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" />
