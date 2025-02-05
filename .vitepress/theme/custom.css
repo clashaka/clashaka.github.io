@@ -68,3 +68,11 @@ img {
     text-align: right;
     color: var(--vp-c-text-2);
 }
+
+.details {
+    border-radius: 0;
+}
+
+figcaption {
+    text-align: center;
+}
