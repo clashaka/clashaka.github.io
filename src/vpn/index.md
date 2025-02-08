@@ -2,7 +2,7 @@
 本站仅供学习使用，请勿用于非法活动。
 :::
 
-<a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" title="点击访问" target="_blank" rel="noreferrer nofollow">
+<a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">
     <div class="gg-container">
         <img class="img-ads" src="/images/sponsor/hongxing/20240801.webp" alt="红杏云机场推荐">
         <span class="gg-text">赞助商广告</span>
@@ -26,23 +26,7 @@
 [价格详情](/images/sponsor/hongxing/20250201080400.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20250201080401.webp)
 
-::: details [促销活动] 2025 春节活动，蛇年大吉，蛇么都如意！🎉
-
-
-千元现金红包 + 红杏流量卷
-
-🎁 **奖品明细**
-
-- 一等奖：现金红包 888 元 ×2 个
-- 二等奖：现金红包 202.5 元 ×5 个
-- 三等奖：红杏 1000GB 不限时套餐 ×10 个
-- 四等奖：现金红包 20.25 元 ×10 个
-- 五等奖：202.5GB 流量券 ×20 个
-
-👉 [活动链接](https://t.me/hxygroups/60491)
-:::
-
-## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" />
+## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" /> {#index}
 
 使用优惠券 `ygpy` 8 折购买“哆啦 A 梦系列”套餐。
 
