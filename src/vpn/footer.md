@@ -21,7 +21,7 @@
 需要邮箱验证。
 :::
 
-> <Deadline targetDate="2025-02-12 12:00:00" />
+> <Deadline targetDate="2025-03-12 12:00:00" />
 
 ---
 

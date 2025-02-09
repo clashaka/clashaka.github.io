@@ -1,5 +1,5 @@
 ---
-description: 
+description: “一个朋友”翻墙软件推荐。免费翻墙软件下载。涵盖代理软件安卓、vpn代理软件、windows代理软件等。
 lastUpdated: false
 ---
 
