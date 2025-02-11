@@ -7,7 +7,6 @@ const { Layout } = DefaultTheme
 <template>
     <Layout>
         <template #sidebar-nav-after>
-            <!-- <a class="sponsor-sidebar" href="/contact">成为赞助商</a> -->
             <a href="https://yunfan-a.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/vpnong/20250118.webp" alt="哆啦A梦VPN机场推荐" />
@@ -31,10 +30,6 @@ const { Layout } = DefaultTheme
             </div>
             <br>
         </template>
-        <template #nav-bar-content-after>
-            <div class="before"></div>
-            <a href="/contact" class="nav VPBadge info">成为赞助商</a>
-        </template>
         <template #nav-screen-content-after>
             <br>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
@@ -51,61 +46,7 @@ const { Layout } = DefaultTheme
 </template>
 
 <style scoped>
-@media screen and (max-width: 768px) {
-    .nav.VPBadge {
-        margin-left: 0;
-        transform: none;
-    }
-
-    div.before {
-        margin-left: 0;
-        width: 0;
-        height: 0;
-    }
-}
-
-.sponsor-sidebar,
-.sponsor-aside,
-.sponsor-doc {
-    width: 100%;
-    height: 96px;
-    font-size: 12px;
-    color: var(--vp-c-text-3);
-    background-color: var(--vp-c-bg-soft);
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    border-radius: 8px;
-}
-
-.sponsor-sidebar,
-img {
-    background-color: var(--vp-c-bg-alt);
-}
-
 img {
     box-shadow: 0 0 10px rgb(0 0 0 / 0.1);
-}
-
-.sponsor-code {
-    font-size: 12px;
-    color: var(--vp-c-text-2);
-    padding-top: 4px;
-    text-align: right;
-    display: block;
-}
-
-.nav.VPBadge {
-    margin-left: 14px;
-    transform: none;
-}
-
-div.before {
-    margin-left: 16px;
-    display: inline-block;
-    width: 1px;
-    height: 24px;
-    background-color: var(--vp-c-divider);
-    content: "";
 }
 </style>

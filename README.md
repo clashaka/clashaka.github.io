@@ -2,7 +2,7 @@
 
 ## 内容更新
 
-* 每月更新
+- 每月更新
 
 ```
 .vitepress/theme/NavItem.js
@@ -12,7 +12,7 @@ src/vpn/[year]/[month].md
 src/index.md
 ```
 
-* 广告更新
+- 广告更新
 
 ```
 .vitepress\theme\components\Layout.vue
