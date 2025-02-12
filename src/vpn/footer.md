@@ -6,7 +6,7 @@
 
 > 真专线机场，流媒体解锁，无视晚高峰！
 
-节点位置：香港、日本、韩国、台湾、荷兰、英国、美国、泰国、新加坡、德国、俄罗斯、马来西亚、越南、阿联酋、土耳其
+节点位置：德国、韩国、荷兰、马来西亚、美国、日本、台湾、泰国、香港、新加坡、英国、越南、俄罗斯、土耳其
 
 协议类型：Shadowsocks、VMess
 
@@ -14,7 +14,7 @@
 
 <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/superbiu888" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/superbiu/20250111184215.webp)&nbsp;
+[价格详情](/images/sponsor/superbiu/20250212091732.webp)&nbsp;
 [节点测速](/images/sponsor/superbiu/20250112172959.png)
 
 ::: tip 注册提示
