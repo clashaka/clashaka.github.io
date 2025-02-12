@@ -43,7 +43,8 @@ export default {
                     resetButtonTitle: '清除查询条件',
                     footer: {
                         selectText: '选择',
-                        navigateText: '切换'
+                        navigateText: '切换',
+                        closeText: '关闭'
                     }
                 }
             }
