@@ -10,6 +10,7 @@
 src/public/images/[year]/[month]
 src/vpn/[year]/[month].md
 src/index.md
+src/vpn/[year]/[month].md#description&h1
 ```
 
 - 广告更新
