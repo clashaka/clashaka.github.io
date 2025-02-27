@@ -23,6 +23,31 @@
 
 > <Deadline targetDate="2025-03-12 12:00:00" />
 
+<!-- ## 糖果云 [广告] <Badge type="danger" text="付费机场" />
+
+使用优惠券 `ygpy` 6 折购买“糖果云系列”套餐。
+
+`宽带 500Mbps` `IEPL 专线` `家宽 IP` `不限设备`
+
+> 独家定制专线，流媒体解锁，365*24 小时运行！
+
+节点位置：
+
+协议类型：
+
+节点数量：
+
+<a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://t.me/candytallyvip" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/candytally/20250227230658.webp)&nbsp;
+[节点测速](/images/sponsor/superbiu/20250112172959.png)
+
+::: info 注册信息
+无需邮箱验证。
+:::
+
+> <Deadline targetDate="2025-03-28 12:00:00" /> -->
+
 ---
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
