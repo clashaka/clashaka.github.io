@@ -30,7 +30,7 @@ const { Layout } = DefaultTheme
             </div>
             <br>
         </template>
-        <!-- <template #home-features-after>
+        <template #home-features-after>
             <br>
             <div class="container">
                 <div class="home-features-after-ad">
@@ -40,7 +40,7 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/vpn/footer">更多信息</a>
+                                <a href="/vpn/footer#糖果云-广告">更多信息</a>
                             </div>
                         </div>
                     </a>
@@ -56,14 +56,13 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/vpn/footer">更多信息</a>
+                                <a href="/vpn/footer#糖果云-广告">更多信息</a>
                             </div>
                         </div>
                     </a>
                 </div>
             </div>
-            <br>
-        </template> -->
+        </template>
         <template #nav-screen-content-after>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
