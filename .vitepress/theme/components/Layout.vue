@@ -112,6 +112,9 @@ img {
     .container {
         padding: 0 64px;
     }
+    .container img {
+        width: 1152px;
+    }
     .re-text {
         bottom: 10%;
         background-color: rgb(255 255 255 / 0.9);
