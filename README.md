@@ -9,8 +9,8 @@
 .vitepress/theme/Sidebar.js
 src/public/images/[year]/[month]
 src/vpn/[year]/[month].md
-src/index.md
 src/vpn/[year]/[month].md#description&h1
+src/index.md
 ```
 
 - 广告更新
