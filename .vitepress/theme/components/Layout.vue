@@ -53,7 +53,7 @@ const { Layout } = DefaultTheme
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
-                            <span class="gg-text">广告</span>
+                            <span class="gg-text">赞助商广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
                                 <a href="/vpn/footer#糖果云-广告">更多信息</a>
