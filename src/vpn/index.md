@@ -15,16 +15,16 @@
 
 > Secure 隧道，IEPL 安全稳定，支持家庭成员共享！
 
-节点位置：阿联酋、澳大利亚、巴西、加拿大、瑞士、智利、台湾、哥伦比亚、德国、西班牙、法国、英国、香港、印度尼西亚、以色列、印度、意大利、日本、韩国、澳门、墨西哥、马来西亚、尼日利亚、荷兰、菲律宾、俄罗斯、沙特阿拉伯、瑞典、新加坡、泰国、土耳其、美国、越南、南非
+节点位置：阿联酋、澳大利亚、巴西、加拿大、瑞士、智利、台湾、哥伦比亚、德国、西班牙、法国、英国、香港、印度尼西亚、以色列、印度、日本、韩国、墨西哥、马来西亚、尼日利亚、荷兰、菲律宾、俄罗斯、沙特阿拉伯、瑞典、新加坡、泰国、土耳其、美国、越南、南非
 
 协议类型：Trojan
 
-节点数量：43
+节点数量：47
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
-<a href="https://t.me/hxygroups" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/hongxing/20250201080400.webp)&nbsp;
-[节点测速](/images/sponsor/hongxing/20250201080401.webp)
+<a href="https://t.me/hongxingyuna" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+[价格详情](/images/sponsor/hongxing/20250301091100.webp)&nbsp;
+[节点测速](/images/sponsor/hongxing/20250301091101.webp)
 
 ## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" /> {#index}
 
