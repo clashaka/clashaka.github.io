@@ -40,7 +40,7 @@
 
 节点数量：13
 
-<a href="https://yunfan-a.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/vpnong/20250117194558.webp)&nbsp;
 [节点测速](/images/sponsor/vpnong/20250117214300.png)
