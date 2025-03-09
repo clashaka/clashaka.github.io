@@ -27,20 +27,20 @@
 
 使用优惠券 `ygpy` 6 折购买“糖果云系列”套餐。
 
-`带宽 500Mbps` `不限设备` `IEPL 专线` `家宽 IP` 
+`超大带宽` `不限设备` `IEPL 专线` `家宽 IP` 
 
 > 独家定制专线，流媒体解锁，365*24 小时运行！
 
-节点位置：美国、新加坡、日本、香港、德国、台湾
+节点位置：美国、新加坡、韩国、日本、香港、德国、台湾
 
 协议类型：Trojan
 
-节点数量：21
+节点数量：30
 
 <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/candytallyvip" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/candytally/20250227230658.webp)&nbsp;
-[节点测速](/images/sponsor/candytally/20250228084102.webp)
+[价格详情](/images/sponsor/candytally/20250309074629.webp)&nbsp;
+[节点测速](/images/sponsor/candytally/20250309075201.webp)
 
 ::: info 注册信息
 无需邮箱验证。
