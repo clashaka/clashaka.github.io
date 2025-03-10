@@ -21,7 +21,7 @@
 需要邮箱验证。
 :::
 
-> <Deadline targetDate="2025-03-12 12:00:00" />
+> <Deadline targetDate="2025-04-12 12:00:00" />
 
 ## 糖果云 [广告] <Badge type="danger" text="付费机场" />
 
