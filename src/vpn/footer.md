@@ -1,6 +1,6 @@
 ## superbiu [广告] <Badge type="danger" text="付费机场" />
 
-使用优惠券 `ygpy` 9 折购买“superbiu 系列”套餐。
+支持试用，低至 9 元购买“Small biu”50GB/30 天套餐。
 
 `国际专线` `IPLC 线路` `50+ 节点` `不限设备`
 
