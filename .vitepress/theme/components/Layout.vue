@@ -21,7 +21,7 @@ const { Layout } = DefaultTheme
         <template #aside-outline-before>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
-                    <img src="/images/sponsor/superbiu/20250312.gif" alt="superbiu机场推荐" />
+                    <img src="/images/sponsor/superbiu/20250111.gif" alt="superbiu机场推荐" />
                     <span class="gg-text">赞助商广告</span>
                 </div>
             </a>
@@ -66,7 +66,7 @@ const { Layout } = DefaultTheme
         <template #nav-screen-content-after>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
-                    <img src="/images/sponsor/superbiu/20250312.gif" alt="superbiu机场推荐" />
+                    <img src="/images/sponsor/superbiu/20250111.gif" alt="superbiu机场推荐" />
                     <span class="gg-text">赞助商广告</span>
                 </div>
             </a>
