@@ -9,9 +9,7 @@ const { Layout } = DefaultTheme
     <Layout>
         <template #doc-after>
             <p id="留言板" class="comment-title">留言板</p>
-            <div id="disqus_thread"></div>
             <Comment />
-            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         </template>
         <template #sidebar-nav-after>
             <a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
