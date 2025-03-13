@@ -12,7 +12,7 @@ search: false
 
 - [YouTube](https://www.youtube.com/@ygpy)
 - [Instagram](https://www.instagram.com/ygpy_net/)
-- [X](https://x.com/ygpy_net)
+- [X (Twitter)](https://x.com/ygpy_net)
 - [Pinterest](https://www.pinterest.com/ygpy_net/)
 - [Telegram](https://t.me/sxtnbhz)
 - [Linktree](https://linktr.ee/ygpy_net)
