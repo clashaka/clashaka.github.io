@@ -63,10 +63,4 @@ lastUpdated: false
 <a href="https://github.com/dessant/buster" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
 <a href="https://github.com/dessant/buster/wiki" target="_blank" rel="noreferrer nofollow">使用教程</a>
 
----
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-    <small>
-        <a property="dct:title" rel="cc:attributionURL" href="https://ygpy.net/">免费机场推荐</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://ygpy.net/about.html">一个朋友</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer nofollow" style="display:inline-block;">CC BY-NC-ND 4.0</a>
-    </small>
-</p>
+<!--@include: ../license.md-->

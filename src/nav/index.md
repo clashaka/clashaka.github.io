@@ -24,3 +24,5 @@ lastUpdated: false
 <card href="https://whatismyipaddress.com/zh-cn/index" target="_blank" image="../images/icon/whatismyipaddress.ico" title="我的 IP 地址" details="IP 地址信息查询工具"/>
 <card href="https://ipcheck.ing/" target="_blank" image="../images/icon/ip-check.ico" title="IPCheck" details="一系列网络诊断工具"/>
 </div>
+
+<!--@include: ../license.md-->

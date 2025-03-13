@@ -1,11 +1,18 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
+import Comment from "./Comment.vue";
 
 const { Layout } = DefaultTheme
 </script>
 
 <template>
     <Layout>
+        <template #doc-after>
+            <p id="留言板" class="comment-title">留言板</p>
+            <div id="disqus_thread"></div>
+            <Comment />
+            <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        </template>
         <template #sidebar-nav-after>
             <a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
@@ -30,10 +37,9 @@ const { Layout } = DefaultTheme
             </div>
             <br>
         </template>
-        <template #home-features-after>
-            <br>
+        <template #home-features-before>
             <div class="container">
-                <div class="home-features-after-ad">
+                <div class="home-features-before-ad">
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
@@ -47,9 +53,10 @@ const { Layout } = DefaultTheme
                 </div>
             </div>
         </template>
-        <template #home-features-before>
+        <template #home-features-after>
+            <br>
             <div class="container">
-                <div class="home-features-before-ad">
+                <div class="home-features-after-ad">
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
@@ -80,6 +87,18 @@ const { Layout } = DefaultTheme
 <style scoped>
 img {
     box-shadow: 0 0 10px rgb(0 0 0 / 0.1);
+}
+
+.comment-title {
+    margin: 48px 0 16px;
+    border-top: 1px solid var(--vp-c-divider);
+    padding-top: 24px;
+    letter-spacing: -0.02em;
+    line-height: 32px;
+    font-size: 24px;
+    position: relative;
+    font-weight: 600;
+    outline: none;
 }
 
 @media screen and (max-width: 768px) {
