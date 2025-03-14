@@ -9,6 +9,24 @@ lastUpdated: false
 软件下载与视频教程链接均来自 GitHub 和 YouTube，需自行解决网络问题。
 :::
 
+## Clash Verge Rev <Badge type="info" text="桌面端" />
+
+是一个基于 Tauri 框架的 Clash Meta GUI 应用程序。
+
+系统平台：Windows、macOS、Linux
+
+<a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
+<a href="https://www.youtube.com/results?search_query=clash+verge+rev%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
+
+## Clash Meta for Android <Badge type="tip" text="移动端" />
+
+是一个基于规则的 Android 隧道客户端，提供图形用户界面，支持多种 CPU 架构。
+
+系统平台：Android
+
+<a href="https://github.com/MetaCubeX/ClashMetaForAndroid" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
+<a href="https://www.youtube.com/results?search_query=clash+meta+for+android%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
+
 ## v2rayN <Badge type="info" text="桌面端" />
 
 是一个适用于 Windows 的图形用户界面客户端，支持 Xray 核心和 v2fly 核心等多种核心。
@@ -35,24 +53,6 @@ lastUpdated: false
 
 <a href="https://apps.apple.com/us/app/shadowrocket/id932747118" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
 <a href="https://www.youtube.com/results?search_query=shadowrocket%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
-
-## Clash Verge Rev <Badge type="info" text="桌面端" />
-
-是一个基于 Tauri 框架的 Clash Meta GUI 应用程序。
-
-系统平台：Windows、macOS、Linux
-
-<a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
-<a href="https://www.youtube.com/results?search_query=clash+verge+rev%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
-
-## Clash Meta for Android <Badge type="tip" text="移动端" />
-
-是一个基于规则的 Android 隧道客户端，提供图形用户界面，支持多种 CPU 架构。
-
-系统平台：Android
-
-<a href="https://github.com/MetaCubeX/ClashMetaForAndroid" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
-<a href="https://www.youtube.com/results?search_query=clash+meta+for+android%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
 
 ## Buster <Badge type="warning" text="浏览器" />
 
