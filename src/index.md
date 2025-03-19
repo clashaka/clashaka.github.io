@@ -15,6 +15,9 @@ hero:
       text: 开始阅读
       link: /vpn/2025/03
     - theme: alt
+      text: 付费专栏
+      link: /pricing
+    - theme: alt
       text: 常见问题
       link: /faq
 

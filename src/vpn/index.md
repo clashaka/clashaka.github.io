@@ -34,16 +34,16 @@
 
 > 海外专线，高速节点，老牌团队！
 
-节点位置：美国、香港、韩国、日本、新加坡
+节点位置：韩国、美国、日本、香港、台湾
 
-协议类型：Trojan
+协议类型：Trojan、VMess
 
-节点数量：13
+节点数量：26
 
 <a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/vpnong/20250117194558.webp)&nbsp;
-[节点测速](/images/sponsor/vpnong/20250117214300.png)
+[价格详情](/images/sponsor/vpnong/20250319135425.webp)&nbsp;
+[节点测速](/images/sponsor/vpnong/20250319135045.webp)
 
 ::: tip 注册提示
 需要邮箱验证。
