@@ -5,6 +5,6 @@ lastUpdated: false
 
 # 付费机场推荐
 
-<!--@include: /vpn/index.md-->
+<!--@include: index.md-->
 
-<!--@include: /vpn/footer.md-->
+<!--@include: footer.md-->

@@ -16,7 +16,7 @@ hero:
       link: /vpn/2025/03
     - theme: alt
       text: 付费专栏
-      link: /pricing
+      link: /vpn/paid
     - theme: alt
       text: 常见问题
       link: /faq
