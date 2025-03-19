@@ -1,5 +1,5 @@
 ::: warning
-本站仅供学习使用，请勿用于非法活动。
+本站仅供学习使用，请勿用于非法活动——《[一个朋友免责声明](/disclaimer)》。
 :::
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">
