@@ -26,7 +26,7 @@
 [价格详情](/images/sponsor/hongxing/20250301091100.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20250301091101.webp)
 
-## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" /> {#ad-2}
+## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" /> {#2}
 
 使用优惠券 `ygpy` 8 折购买“哆啦 A 梦系列”套餐。
 

@@ -1,4 +1,4 @@
-## 糖果云 [广告] <Badge type="danger" text="付费机场" /> {#ad-3}
+## 糖果云 [广告] <Badge type="danger" text="付费机场" /> {#3}
 
 使用优惠券 `ygpy` 6 折购买“糖果云系列”套餐。
 
@@ -23,7 +23,7 @@
 
 > <Deadline targetDate="2025-03-28 12:00:00" />
 
-## superbiu [广告] <Badge type="danger" text="付费机场" /> {#ad-4}
+## superbiu [广告] <Badge type="danger" text="付费机场" /> {#4}
 
 支持试用，使用优惠码 ygpy 9 折购买“superbiu 系列”套餐。
 

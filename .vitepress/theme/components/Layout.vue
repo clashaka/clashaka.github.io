@@ -20,7 +20,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/vpn/paid#ad-2">更多信息</a>
+                <a href="/vpn/paid#2">更多信息</a>
             </div>
         </template>
         <template #aside-outline-before>
@@ -31,7 +31,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/vpn/paid#ad-4">更多信息</a>
+                <a href="/vpn/paid#4">更多信息</a>
             </div>
             <br>
         </template>
@@ -44,7 +44,7 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">赞助商广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/vpn/paid#ad-3">更多信息</a>
+                                <a href="/vpn/paid#3">更多信息</a>
                             </div>
                         </div>
                     </a>
@@ -61,7 +61,7 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">赞助商广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/vpn/paid#ad-3">更多信息</a>
+                                <a href="/vpn/paid#3">更多信息</a>
                             </div>
                         </div>
                     </a>
@@ -77,7 +77,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/vpn/paid#ad-4">更多信息</a>
+                <a href="/vpn/paid#4">更多信息</a>
             </div>
         </template>
     </Layout>
