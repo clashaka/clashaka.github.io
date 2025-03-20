@@ -20,7 +20,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/vpn/#index">更多信息</a>
+                <a href="/vpn/paid#ad-2">更多信息</a>
             </div>
         </template>
         <template #aside-outline-before>
@@ -31,7 +31,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/paid#superbiu-广告">更多信息</a>
+                <a href="/vpn/paid#ad-4">更多信息</a>
             </div>
             <br>
         </template>
@@ -44,7 +44,7 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">赞助商广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/paid#糖果云-广告">更多信息</a>
+                                <a href="/vpn/paid#ad-3">更多信息</a>
                             </div>
                         </div>
                     </a>
@@ -61,7 +61,7 @@ const { Layout } = DefaultTheme
                             <span class="gg-text">赞助商广告</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
-                                <a href="/paid#糖果云-广告">更多信息</a>
+                                <a href="/vpn/paid#ad-3">更多信息</a>
                             </div>
                         </div>
                     </a>
@@ -69,6 +69,7 @@ const { Layout } = DefaultTheme
             </div>
         </template>
         <template #nav-screen-content-after>
+            <br>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/superbiu/20250111.gif" alt="superbiu机场推荐" />
@@ -76,7 +77,7 @@ const { Layout } = DefaultTheme
                 </div>
             </a>
             <div class="msg">
-                <a href="/paid#superbiu-广告">更多信息</a>
+                <a href="/vpn/paid#ad-4">更多信息</a>
             </div>
         </template>
     </Layout>
