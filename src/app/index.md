@@ -63,4 +63,13 @@ lastUpdated: false
 <a href="https://github.com/dessant/buster" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
 <a href="https://github.com/dessant/buster/wiki" target="_blank" rel="noreferrer nofollow">使用教程</a>
 
+## MiaoKo <Badge type="warning" text="Telegram" />
+
+是一款专注于自动化测试节点连通性的机器人，旨在为用户提供简便而高效的运维解决方案。其独特的功能包括自动测试网络节点的连接性，并生成详细的连通报告，为用户提供全面的运维支持。
+
+系统平台：机器人
+
+<a href="https://t.me/FFQPublicBot" target="_blank" rel="noreferrer nofollow">前往使用</a>&nbsp;
+<a href="https://xszn.org/2025/03/miaoko/" target="_blank" rel="noreferrer">MiaoKo 使用教程</a>
+
 <!--@include: ../license.md-->
