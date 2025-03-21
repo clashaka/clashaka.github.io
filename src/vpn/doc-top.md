@@ -5,7 +5,7 @@
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">
     <div class="gg-container">
         <img class="img-ads" src="/images/sponsor/hongxing/20240801.webp" alt="红杏云机场推荐">
-        <span class="gg-text">赞助商广告</span>
+        <span class="gg-text">推荐</span>
         <span class="re-text">前往体验</span>
     </div>
 </a>
@@ -26,7 +26,7 @@
 [价格详情](/images/sponsor/hongxing/20250301091100.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20250301091101.webp)
 
-## 哆啦 A 梦 VPN [广告] <Badge type="danger" text="付费机场" /> {#2}
+## 哆啦 A 梦 VPN [推荐] <Badge type="danger" text="付费机场" /> {#2}
 
 使用优惠券 `ygpy` 8 折购买“哆啦 A 梦系列”套餐。
 
