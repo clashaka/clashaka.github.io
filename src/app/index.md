@@ -61,7 +61,7 @@ lastUpdated: false
 系统平台：Chrome、Firefox、Edge、Opera
 
 <a href="https://github.com/dessant/buster" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
-<a href="https://github.com/dessant/buster/wiki" target="_blank" rel="noreferrer nofollow">使用教程</a>
+<a href="https://xszn.org/2025/03/buster/" target="_blank" rel="noreferrer">Buster 使用教程</a>
 
 ## MiaoKo <Badge type="warning" text="Telegram" />
 
