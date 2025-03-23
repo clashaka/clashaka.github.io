@@ -16,7 +16,7 @@ lastUpdated: false
 系统平台：Windows、macOS、Linux
 
 <a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
-<a href="https://www.youtube.com/results?search_query=clash+verge+rev%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B" target="_blank" rel="noreferrer nofollow">使用教程</a>
+<a href="https://xszn.org/2025/03/clash-verge-rev/" target="_blank" rel="noreferrer">Clash Verge Rev 使用教程</a>
 
 ## Clash Meta for Android <Badge type="tip" text="移动端" />
 
