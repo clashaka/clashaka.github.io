@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /vpn/2025/03
+      link: /vpn/2025/04
     - theme: alt
       text: 付费专栏
       link: /vpn/paid
@@ -25,7 +25,7 @@ features:
   - icon: ✈️
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
-    link: /vpn/2025/03
+    link: /vpn/2025/04
     linkText: 开始阅读
   - icon: 💾
     title: 软件列表

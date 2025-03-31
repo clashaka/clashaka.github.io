@@ -3,6 +3,7 @@ export default {
         {
             text: '2025 年',
             items: [
+                { text: '4 月', link: '/vpn/2025/04' },
                 { text: '3 月', link: '/vpn/2025/03' },
                 { text: '2 月', link: '/vpn/2025/02' },
                 { text: '1 月', link: '/vpn/2025/01' }

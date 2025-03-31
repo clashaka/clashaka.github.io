@@ -10,15 +10,16 @@
 src/public/images/[year]/[month]
 src/vpn/[year]/[month].md
 src/vpn/[year]/[month].md#description&h1
-src/index.md
+src/index.md#actions&features
 ```
 
 - 广告更新
 
 ```
 .vitepress\theme\components\Layout.vue
-src\vpn\index.md
-src\vpn\footer.md
+src\vpn\doc-bottom.md
+src\vpn\doc-top.md
+src\vpn\paid.md
 ```
 
 ## 更新版本
