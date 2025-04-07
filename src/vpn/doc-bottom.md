@@ -10,12 +10,12 @@
 
 协议类型：Trojan
 
-节点数量：30
+节点数量：27
 
 <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/candytallyvip" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
-[价格详情](/images/sponsor/candytally/20250309074629.webp)&nbsp;
-[节点测速](/images/sponsor/candytally/20250309075201.webp)
+[价格详情](/images/sponsor/candytally/20250407084945.webp)&nbsp;
+[节点测速](/images/sponsor/candytally/20250407840856.webp)
 
 ::: info 注册信息
 无需邮箱验证。
