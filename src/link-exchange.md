@@ -12,4 +12,5 @@ aside: false
     <card href="https://www.iyio.net/" target="_blank" image="https://www.iyio.net/favicon.ico" title="科学上网" details="分享科学上网教程的优质博客"/>
     <card href="https://xszn.org/" target="_blank" image="https://xszn.org/favicon.ico" title="行书指南" details="软件资源分享"/>
     <card href="https://022330.xyz/" target="_blank" image="https://022330.xyz/favicon.ico" title="23 导航" details="导航大全网站"/>
+    <card href="https://www.nodeloc.com" target="_blank" image="https://www.nodeloc.com/assets/favicon-xnsy6c7k.png" title="NodeLoc" details="自由地讨论互联网资源"/>
 </div>
