@@ -21,8 +21,6 @@
 无需邮箱验证。
 :::
 
-> <Deadline targetDate="2025-05-07 12:00:00" />
-
 ## superbiu [推荐] <Badge type="danger" text="付费机场" /> {#4}
 
 支持试用，使用优惠码 ygpy 9 折购买“superbiu 系列”套餐。
@@ -45,7 +43,5 @@
 ::: tip 注册提示
 需要邮箱验证。
 :::
-
-> <Deadline targetDate="2025-04-12 12:00:00" />
 
 <!--@include: ../license.md-->

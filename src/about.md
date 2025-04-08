@@ -1,5 +1,6 @@
 ---
 aside: false
+search: false
 ---
 
 # 关于我们

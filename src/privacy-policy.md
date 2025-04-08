@@ -1,12 +1,8 @@
 ---
-aside: false
+search: false
 ---
 
 # 隐私权政策
-
-目录表
-
-[[toc]]
 
 ## 引言
 

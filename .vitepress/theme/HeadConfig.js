@@ -21,7 +21,7 @@ export default [
     ],
     [
         'meta',
-        { name: 'twitter:image', content: 'https://ygpy.net/images/large-image.webp' }
+        { name: 'twitter:image', content: 'https://ygpy.net/images/og-image.webp' }
     ],
     [
         'meta',
@@ -49,11 +49,11 @@ export default [
     ],
     [
         'meta',
-        { property: 'og:image', content: 'https://ygpy.net/images/large-image.webp' }
+        { property: 'og:image', content: 'https://ygpy.net/images/og-image.webp' }
     ],
     [
         'meta',
-        { property: 'og:image:secure_url', content: 'https://ygpy.net/images/large-image.webp' }
+        { property: 'og:image:secure_url', content: 'https://ygpy.net/images/og-image.webp' }
     ],
     [
         'meta',

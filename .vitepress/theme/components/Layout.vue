@@ -1,18 +1,14 @@
 <script setup>
 import DefaultTheme from 'vitepress/theme'
-import Comment from "./Comment.vue";
 
 const { Layout } = DefaultTheme
 </script>
 
 <template>
     <Layout>
-        <template #doc-after>
-            <p id="留言板" class="comment-title">留言板</p>
-            <Comment />
-        </template>
         <template #sidebar-nav-after>
-            <a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
+            <a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank"
+                rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/vpnong/20250218.webp" alt="哆啦A梦VPN机场推荐" />
                     <span class="gg-text">推荐</span>
@@ -38,7 +34,8 @@ const { Layout } = DefaultTheme
         <template #home-features-before>
             <div class="container">
                 <div class="home-features-before-ad">
-                    <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">
+                    <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank"
+                        rel="noreferrer nofollow">
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
                             <span class="gg-text">推荐</span>
@@ -55,7 +52,8 @@ const { Layout } = DefaultTheme
             <br>
             <div class="container">
                 <div class="home-features-after-ad">
-                    <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank" rel="noreferrer nofollow">
+                    <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank"
+                        rel="noreferrer nofollow">
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
                             <span class="gg-text">推荐</span>
@@ -108,10 +106,12 @@ img {
     .home-features-after-ad {
         display: none;
     }
+
     .home-features-before-ad {
         display: flex;
         justify-content: center;
     }
+
     .re-text {
         bottom: 20%;
         background-color: rgb(255 255 255 / 0.9);
@@ -123,16 +123,20 @@ img {
     .home-features-before-ad {
         display: none;
     }
+
     .home-features-after-ad {
         display: flex;
         justify-content: center;
     }
+
     .container {
         padding: 0 64px;
     }
+
     .container img {
         width: 1152px;
     }
+
     .re-text {
         bottom: 10%;
         background-color: rgb(255 255 255 / 0.9);
@@ -144,6 +148,7 @@ img {
     .container {
         padding: 0 48px;
     }
+
     .re-text {
         bottom: 15%;
     }
@@ -153,6 +158,7 @@ img {
     .container {
         padding: 0 64px;
     }
+
     .re-text {
         bottom: 10%;
     }

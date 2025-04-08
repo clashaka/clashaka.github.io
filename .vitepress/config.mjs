@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
-import themeConfig from './theme/ThemeConfig.js'
 import head from './theme/HeadConfig.js'
+import themeConfig from './theme/ThemeConfig.js'
 
 export default defineConfig({
   title: '一个朋友',
