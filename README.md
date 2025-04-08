@@ -4,7 +4,7 @@ search: false
 
 # 一个朋友 | 免费机场推荐
 
-![一个朋友，一个免费机场推荐网站，含机场推荐与免费vpn](/images/large-image.webp)
+![一个朋友，一个免费机场推荐网站，含机场推荐与免费vpn](/images/og-image.webp)
 
 ---
 
