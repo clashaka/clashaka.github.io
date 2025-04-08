@@ -4,7 +4,7 @@
   },
   "scripts": {
     "dev": "vitepress dev --open",
-    "build": "vitepress build --open",
+    "build": "vitepress build",
     "preview": "vitepress preview"
   },
   "type": "module"

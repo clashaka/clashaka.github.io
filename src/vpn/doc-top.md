@@ -1,5 +1,5 @@
 ::: warning
-本站仅供学习使用，请勿用于非法活动——《[一个朋友免责声明](/disclaimer)》。
+本站仅供学习使用，请勿用于非法活动。
 :::
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">
@@ -40,7 +40,7 @@
 
 节点数量：26
 
-<a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
+<a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
 <a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
 [价格详情](/images/sponsor/vpnong/20250319135425.webp)&nbsp;
 [节点测速](/images/sponsor/vpnong/20250319135045.webp)

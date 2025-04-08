@@ -12,7 +12,7 @@ const { Layout } = DefaultTheme
             <Comment />
         </template>
         <template #sidebar-nav-after>
-            <a href="https://yunfan-d.uuvpn.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
+            <a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
                     <img src="/images/sponsor/vpnong/20250218.webp" alt="哆啦A梦VPN机场推荐" />
                     <span class="gg-text">推荐</span>

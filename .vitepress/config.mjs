@@ -8,12 +8,7 @@ export default defineConfig({
   head,
   lang: 'zh',
   srcDir: './src',
-  metaChunk: true,
   lastUpdated: true,
-  sitemap: {
-    hostname: 'https://ygpy.net',
-    lastmodDateOnly: false
-  },
   markdown: {
     container: {
       tipLabel: '提示',
@@ -26,5 +21,9 @@ export default defineConfig({
       lazyLoading: true
     }
   },
-  themeConfig,
+  sitemap: {
+    hostname: 'https://ygpy.net',
+    lastmodDateOnly: false
+  },
+  themeConfig
 })

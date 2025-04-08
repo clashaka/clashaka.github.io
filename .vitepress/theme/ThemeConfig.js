@@ -1,24 +1,22 @@
 import nav from './NavItem.js'
 import sidebar from './Sidebar.js'
+import socialLinks from './SocialLinks.js';
 import footer from './Footer.js'
 
 export default {
     logo: {
         src: '/images/logo.webp',
-        alt: '一个朋友logo'
+        alt: '一个朋友标志'
     },
     nav,
     sidebar,
     outline: {
         label: '页面导航'
     },
+    // socialLinks,
     footer,
     lastUpdated: {
-        text: '最后更新于',
-        formatOptions: {
-            dateStyle: 'short',
-            timeStyle: 'short'
-        }
+        text: '最后更新于'
     },
     docFooter: {
         prev: '上一页',

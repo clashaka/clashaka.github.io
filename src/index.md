@@ -1,5 +1,4 @@
 ---
-title: 一个朋友
 titleTemplate: 免费机场推荐
 layout: home
 
@@ -8,8 +7,8 @@ hero:
   text: 出海工具推荐网站
   tagline: 常收录试用机场、常用软件以及热门网站！
   image:
-    src: images/hero.webp
-    alt: 一个朋友logo
+    src: images/logo-hero.webp
+    alt: 一个朋友标志
   actions:
     - theme: brand
       text: 开始阅读
@@ -17,9 +16,6 @@ hero:
     - theme: alt
       text: 付费专栏
       link: /vpn/paid
-    - theme: alt
-      text: 常见问题
-      link: /faq
 
 features:
   - icon: ✈️
