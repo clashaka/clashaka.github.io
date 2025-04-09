@@ -21,6 +21,24 @@ export default defineConfig({
       lazyLoading: true
     }
   },
+  transformHead({ assets }) {
+    // 相应地调整正则表达式以匹配字体
+    const myFontFile = assets.find(file => /\/font\/NotoSansMonoCJKsc-\.\w+\.woff2/)
+    if (myFontFile) {
+      return [
+        [
+          'link',
+          {
+            rel: 'preload',
+            href: myFontFile,
+            as: 'font',
+            type: 'font/woff2',
+            crossorigin: ''
+          }
+        ]
+      ]
+    }
+  },
   sitemap: {
     hostname: 'https://ygpy.net',
     lastmodDateOnly: false
