@@ -4,7 +4,7 @@ import themeConfig from './theme/ThemeConfig.js'
 
 export default defineConfig({
   title: '一个朋友',
-  description: '免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。',
+  description: '免费机场收集站，聚合全网免费机场，收录最新机场信息。免费机场试用、公益机场列表、电报群更新，Clash/V2Ray/Shadowrocket 全支持。实时测速推荐！永久免费机场每日更新。',
   head,
   lang: 'zh',
   srcDir: './src',

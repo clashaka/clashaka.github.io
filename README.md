@@ -8,9 +8,8 @@
 .vitepress/theme/NavItem.js
 .vitepress/theme/Sidebar.js
 src/public/images/[year]/[month]
-src/vpn/[year]/[month].md
-src/vpn/[year]/[month].md#description&h1
-src/index.md#actions&features
+src/vpn/[year]/[month].md && #h1
+src/index.md#actions && features
 ```
 
 - 广告更新
@@ -22,13 +21,13 @@ src\vpn\doc-top.md
 src\vpn\paid.md
 ```
 
-## 更新版本
+## VitePress 更新
 
 ```
 npm update vitepress
 ```
 
-到 package.json / package-lock.json 中修改版本信息
+或移步 package.json/package-lock.json 修改版本信息
 
 ```
 "devDependencies": {
@@ -36,7 +35,7 @@ npm update vitepress
 }
 ```
 
-## 部署指令
+## GitHub Pages 部署
 
 ```
 call git add .

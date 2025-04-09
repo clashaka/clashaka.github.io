@@ -16,7 +16,7 @@ search: false
 - [Instagram](https://www.instagram.com/ygpy_net/)
 - [X (Twitter)](https://x.com/ygpy_net)
 - [Pinterest](https://www.pinterest.com/ygpy_net/)
-- [Telegram](https://t.me/sxtnbhz)
+- [Telegram](https://t.me/ygpy_net)
 - [Linktree](https://linktr.ee/ygpy_net)
 - [Threads](https://www.threads.net/@ygpy_net)
 - [Tumblr](https://www.tumblr.com/ygpy-net)
