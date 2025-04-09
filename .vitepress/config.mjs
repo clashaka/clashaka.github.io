@@ -22,7 +22,6 @@ export default defineConfig({
     }
   },
   transformHead({ assets }) {
-    // 相应地调整正则表达式以匹配字体
     const myFontFile = assets.find(file => /\/font\/NotoSansMonoCJKsc-\.\w+\.woff2/)
     if (myFontFile) {
       return [
