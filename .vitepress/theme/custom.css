@@ -23,6 +23,18 @@
     font-display: swap;
 }
 
+.card-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+@media screen and (max-width: 768px) {
+    .card-items {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
 a:hover {
     text-decoration: none;
 }

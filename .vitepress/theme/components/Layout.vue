@@ -10,7 +10,7 @@ const { Layout } = DefaultTheme
             <a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank"
                 rel="noreferrer nofollow">
                 <div class="gg-container">
-                    <img src="/images/sponsor/vpnong/20250218.webp" alt="哆啦A梦VPN机场推荐" />
+                    <img src="/images/sponsor/vpnong/1.png" alt="哆啦A梦VPN机场推荐" />
                     <span class="gg-text">广告</span>
                     <!-- <span class="re-text">前往体验</span> -->
                 </div>
@@ -22,7 +22,7 @@ const { Layout } = DefaultTheme
         <template #aside-outline-before>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
-                    <img src="/images/sponsor/superbiu/20250111.gif" alt="superbiu机场推荐" />
+                    <img src="/images/sponsor/superbiu/1.png" alt="superbiu机场推荐" width="224" height="126" />
                     <span class="gg-text">广告</span>
                 </div>
             </a>
@@ -37,7 +37,8 @@ const { Layout } = DefaultTheme
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank"
                         rel="noreferrer nofollow">
                         <div class="gg-container">
-                            <img src="/images/sponsor/candytally/20250228.webp" class="testimg" alt="糖果云机场推荐" />
+                            <img src="/images/sponsor/candytally/20250228.webp" class="testimg" alt="糖果云机场推荐"
+                                width="1152" height="206" />
                             <span class="gg-text">广告</span>
                             <div class="msg">
                                 <a href="/vpn/paid#3">更多信息</a>
@@ -54,7 +55,8 @@ const { Layout } = DefaultTheme
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank"
                         rel="noreferrer nofollow">
                         <div class="gg-container">
-                            <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
+                            <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" width="1152"
+                                height="206" />
                             <span class="gg-text">广告</span>
                             <div class="msg">
                                 <a href="/vpn/paid#3">更多信息</a>
@@ -68,8 +70,8 @@ const { Layout } = DefaultTheme
             <br>
             <a href="https://superbiu.com/#/register?code=KH6xv0ou" target="_blank" rel="noreferrer nofollow">
                 <div class="gg-container">
-                    <img src="/images/sponsor/superbiu/20250111.gif" alt="superbiu机场推荐" />
-                    <span class="gg-text">推荐</span>
+                    <img src="/images/sponsor/superbiu/1.png" alt="superbiu机场推荐" width="288" height="162" />
+                    <span class="gg-text">广告</span>
                 </div>
             </a>
             <div class="msg">
