@@ -37,7 +37,7 @@ const { Layout } = DefaultTheme
                     <a href="https://candytally.com/web/#/login?code=foHbXFgg" target="_blank"
                         rel="noreferrer nofollow">
                         <div class="gg-container">
-                            <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
+                            <img src="/images/sponsor/candytally/20250228.webp" class="testimg" alt="糖果云机场推荐" />
                             <span class="gg-text">推荐</span>
                             <span class="re-text">前往体验</span>
                             <div class="msg">
@@ -57,7 +57,6 @@ const { Layout } = DefaultTheme
                         <div class="gg-container">
                             <img src="/images/sponsor/candytally/20250228.webp" alt="糖果云机场推荐" />
                             <span class="gg-text">推荐</span>
-                            <span class="re-text">前往体验</span>
                             <div class="msg">
                                 <a href="/vpn/paid#3">更多信息</a>
                             </div>
@@ -134,7 +133,7 @@ img {
     }
 
     .container img {
-        width: 1152px;
+        /* width: 1152px; */
     }
 
     .re-text {
