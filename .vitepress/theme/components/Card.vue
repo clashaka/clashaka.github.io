@@ -9,7 +9,7 @@ defineProps({
 
 <template>
     <div class="item grid-3">
-        <a class="VPLink link no-icon VPFeature" :href="href" target="_blank" :title="details">
+        <a class="VPLink link no-icon VPFeature" :href="href" target="_blank" :title="title + '：' + details">
             <article class="box">
                 <div class="top">
                     <div class="icon">

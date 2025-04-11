@@ -1,26 +1,21 @@
 ---
-description: “一个朋友”翻墙软件推荐。免费翻墙软件下载。涵盖代理软件安卓、vpn代理软件、windows代理软件等。
-lastUpdated: false
+description: Clash、v2rayN 等顶级代理软件推荐！支持多协议，安卓/iOS/PC 全兼容，快速稳定访问全球网络。
 ---
 
 # 软件列表
 
-::: tip
-软件下载与视频教程链接均来自 GitHub 和 YouTube，需自行解决网络问题。
-:::
-
 ## Clash Verge Rev <Badge type="info" text="桌面端" />
 
-是一个基于 Tauri 框架的 Clash Meta GUI 应用程序。
+Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 
 系统平台：Windows、macOS、Linux
 
-<a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
+<a href="https://www.clashverge.dev/install.html" target="_blank" rel="noreferrer nofollow">前往下载</a>&nbsp;
 <a href="https://xszn.org/2025/03/clash-verge-rev/" target="_blank" rel="noreferrer">Clash Verge Rev 使用教程</a>
 
 ## Clash Meta for Android <Badge type="tip" text="移动端" />
 
-是一个基于规则的 Android 隧道客户端，提供图形用户界面，支持多种 CPU 架构。
+基于规则的隧道，Clash.Meta 的 Android 图形界面。
 
 系统平台：Android
 
@@ -29,7 +24,7 @@ lastUpdated: false
 
 ## v2rayN <Badge type="info" text="桌面端" />
 
-是一个适用于 Windows 的图形用户界面客户端，支持 Xray 核心和 v2fly 核心等多种核心。
+适用于 Windows、Linux 和 macOS 的 GUI 客户端，支持 Xray、sing-box 等
 
 系统平台：Windows
 
@@ -38,7 +33,7 @@ lastUpdated: false
 
 ## v2rayNG <Badge type="tip" text="移动端" />
 
-是一个适用于 Android 设备的 V2Ray 客户端，支持 Xray 核心和 v2fly 核心。
+Android 的 V2Ray 客户端，支持 Xray 核心和 v2fly 核心。
 
 系统平台：Android
 
@@ -47,7 +42,7 @@ lastUpdated: false
 
 ## Shadowrocket <Badge type="tip" text="移动端" />
 
-是一款适用于 iOS 和 macOS 设备的基于规则的代理工具，支持广泛的网络协议和功能，以及良好的用户界面和开发者支持。
+基于规则的代理实用客户端，适用于 iPhone/iPad/Apple TV。
 
 系统平台：iOS、iPadOS、macOS、tvOS、visionOS
 
@@ -56,7 +51,7 @@ lastUpdated: false
 
 ## Buster <Badge type="warning" text="浏览器" />
 
-是一个针对人类用户设计的浏览器扩展程序，旨在简化解决网页上的 CAPTCHA 验证码的过程。
+Buster 是一款浏览器扩展程序，可帮助您使用语音识别功能完成 reCAPTCHA 音频挑战，从而解决困难的验证码问题。
 
 系统平台：Chrome、Firefox、Edge、Opera
 
@@ -65,11 +60,9 @@ lastUpdated: false
 
 ## MiaoKo <Badge type="warning" text="Telegram" />
 
-是一款专注于自动化测试节点连通性的机器人，旨在为用户提供简便而高效的运维解决方案。其独特的功能包括自动测试网络节点的连接性，并生成详细的连通报告，为用户提供全面的运维支持。
+MiaoKo 是一款专注于自动化测试节点连通性的机器人，旨在为用户提供简便而高效的运维解决方案。
 
 系统平台：机器人
 
 <a href="https://t.me/FFQPublicBot" target="_blank" rel="noreferrer nofollow">前往使用</a>&nbsp;
 <a href="https://xszn.org/2025/03/miaoko/" target="_blank" rel="noreferrer">MiaoKo 使用教程</a>
-
-<!--@include: ../license.md-->

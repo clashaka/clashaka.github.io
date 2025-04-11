@@ -38,9 +38,9 @@ const members = [
   },
   {
     avatar: '/images/logo-dark.webp',
-    name: '一个朋友',
+    name: '一个朋友 Bot',
     title: '管理员',
-    desc: '投稿、广告、友链……',
+    desc: '投稿、广告、友链',
     links: [
       {
         icon: 'telegram',

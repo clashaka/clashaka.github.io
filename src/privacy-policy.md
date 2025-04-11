@@ -1,8 +1,11 @@
 ---
+aside: false
 search: false
 ---
 
 # 隐私权政策
+
+[[toc]]
 
 ## 引言
 
