@@ -23,18 +23,6 @@
     font-display: swap;
 }
 
-.card-items {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 8px;
-}
-
-@media screen and (max-width: 768px) {
-    .card-items {
-        grid-template-columns: repeat(2, 1fr);
-    }
-}
-
 a:hover {
     text-decoration: none;
 }
@@ -43,23 +31,37 @@ img {
     border-radius: 8px;
 }
 
+.gg-container {
+    position: relative;
+    display: inline-block;
+}
+
+.gg-container::after {
+    content: "广告";
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgb(0 0 0 / 0.1);
+    color: white;
+    padding: 2px 6px;
+    font-size: 12px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
 .img-ads {
     box-shadow: 0 0 8px rgb(0 0 0 / 0.1);
     margin-bottom: 16px;
-}
-
-.gg-container {
-    position: relative;
 }
 
 .gg-text {
     position: absolute;
     top: 0;
     right: 0;
-    font-size: 12px;
     background-color: rgb(0 0 0 / 0.1);
     color: white;
     padding: 2px 6px;
+    font-size: 12px;
     border-top-right-radius: 8px;
     border-bottom-left-radius: 8px;
 }
@@ -89,4 +91,16 @@ img.details {
 
 figcaption {
     text-align: center;
+}
+
+.card-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px;
+}
+
+@media screen and (max-width: 768px) {
+    .card-items {
+        grid-template-columns: repeat(2, 1fr);
+    }
 }

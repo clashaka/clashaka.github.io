@@ -58,7 +58,7 @@ const members = [
       {{ $frontmatter.title }}
     </template>
     <template #lead>
-      内容投稿、广告投放、链接交换……
+      加入我们或与我们合作
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers size="small" :members="members" />
