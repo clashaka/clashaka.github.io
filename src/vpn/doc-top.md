@@ -17,7 +17,7 @@
 节点数量：47
 
 <a href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
-<a href="https://t.me/hongxingyuna" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+<a href="https://t.me/hongxingyuna" target="_blank" rel="noreferrer nofollow">官方群组</a>&nbsp;
 [价格详情](/images/sponsor/hongxing/20250301091100.webp)&nbsp;
 [节点测速](/images/sponsor/hongxing/20250301091101.webp)
 
@@ -33,7 +33,7 @@
 
 节点数量：26
 
-<a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往注册</a>&nbsp;
-<a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">联系方式</a>&nbsp;
+<a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
+<a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">官方群组</a>&nbsp;
 [价格详情](/images/sponsor/vpnong/20250319135425.webp)&nbsp;
 [节点测速](/images/sponsor/vpnong/20250319135045.webp)
