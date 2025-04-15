@@ -7,5 +7,8 @@
     "build": "vitepress build",
     "preview": "vitepress preview"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "punycode": "^2.3.1"
+  }
 }

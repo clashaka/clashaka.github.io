@@ -10,26 +10,26 @@ const props = defineProps({
 
 const displayText = computed(() => {
     try {
-        // 使用 URL API 解析链接
-        const url = new URL(props.href)
-
-        // 如果是 t.me 链接，直接返回 host + pathname，不去除末尾的 /
-        if (url.hostname === 't.me') {
-            return url.host + url.pathname
+        let url = props.href
+        const parsedUrl = new URL(url)
+        if (parsedUrl.hostname === 't.me') {
+            return parsedUrl.hostname + parsedUrl.pathname + parsedUrl.search
         }
-
-        // 如果是其他链接，去除路径末尾的 /
-        let path = url.host + url.pathname
-        if (path.endsWith('/')) {
-            path = path.slice(0, -1)  // 去除路径末尾的 /
-        }
-
-        return path
+        url = url.replace(/^https?:\/\//, '')
+        url = decodePunycode(url)
+        let domain = url.replace(/\/.*$/, '')
+        return domain
     } catch (e) {
-        // 如果无法解析为有效的 URL，则直接返回链接
         return props.href
     }
 })
+
+function decodePunycode(domain) {
+    const punycodeRegex = /xn--([a-zA-Z0-9]+)/g
+    return domain.replace(punycodeRegex, (match, encoded) => {
+        return decodeURIComponent('%' + encoded.replace(/([a-fA-F0-9]{2})/g, '$1%'))
+    })
+}
 </script>
 
 <template>

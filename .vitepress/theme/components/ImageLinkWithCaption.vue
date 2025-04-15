@@ -1,15 +1,13 @@
 <script setup>
-import { defineProps } from 'vue'
-
 const props = defineProps({
     src: {
         type: String,
         required: true,
-        validator: value => value.startsWith('http') || value.startsWith('/'), // 验证 src 是有效的图片 URL
+        validator: value => value.startsWith('http') || value.startsWith('/'),
     },
         alt: {
         type: String,
-        default: 'Image description', // 默认值，确保图片有 alt
+        default: 'Image description',
     }
 })
 </script>
