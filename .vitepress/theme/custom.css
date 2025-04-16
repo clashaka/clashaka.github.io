@@ -27,7 +27,7 @@ a:hover {
     text-decoration: none;
 }
 
-figure img {
+img.details {
     padding: 8px;
 }
 
