@@ -27,10 +27,6 @@ a:hover {
     text-decoration: none;
 }
 
-img.details {
-    padding: 8px;
-}
-
 img:not(.VPImage.image-src) {
     box-shadow: 0 0 8px rgb(0 0 0 / 0.1);
     border-radius: 8px;

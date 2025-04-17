@@ -20,3 +20,9 @@ const props = defineProps({
         <figcaption>{{ alt }}</figcaption>
     </figure>
 </template>
+
+<style scoped>
+figure img:not(.VPImage.image-src) {
+    border-radius: 0;
+}
+</style>
