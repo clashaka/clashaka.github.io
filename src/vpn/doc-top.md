@@ -27,13 +27,13 @@
 
 `流媒体解锁` `多设备在线` `支持 BT 下载` `国内中转线路`
 
-节点位置：韩国、美国、日本、香港、台湾
+节点位置：德国、韩国、美国、日本、台湾、香港、新加坡
 
-协议类型：Trojan、VMess
+协议类型：Trojan
 
-节点数量：26
+节点数量：25
 
 <a href="https://o8269.no-yes-doraemon.xyz/#/register?code=7j3dYEtw" target="_blank" rel="noreferrer nofollow">前往体验</a>&nbsp;
 <a href="https://t.me/VPNONGoo" target="_blank" rel="noreferrer nofollow">官方群组</a>&nbsp;
-[价格详情](/images/sponsor/vpnong/20250319135425.webp)&nbsp;
-[节点测速](/images/sponsor/vpnong/20250319135045.webp)
+[价格详情](/images/sponsor/vpnong/20250421094441.webp)&nbsp;
+[节点测速](/images/sponsor/vpnong/20250421094441.png.webp)
