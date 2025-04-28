@@ -4,7 +4,7 @@ search: false
 
 # 一个朋友 | 免费机场推荐
 
-![一个朋友，一个免费机场推荐网站，含机场推荐与免费vpn](./images/og-image.webp)
+![一个朋友，一个免费机场推荐网站，含机场推荐与免费vpn](https://ygpy.net/images/og-image.webp)
 ---
 
 [YGPY.net](https://ygpy.net/) 是一个免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。
@@ -18,7 +18,6 @@ search: false
 - [Telegram](https://t.me/ygpy_net)
 - [Linktree](https://linktr.ee/ygpy_net)
 - [Threads](https://www.threads.net/@ygpy_net)
-- [Tumblr](https://www.tumblr.com/ygpy-net)
 - [Medium](https://ygpy.medium.com/)
 ---
 
