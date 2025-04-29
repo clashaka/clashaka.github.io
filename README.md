@@ -7,11 +7,11 @@ search: false
 ![一个朋友，一个免费机场推荐网站，含机场推荐与免费vpn](https://ygpy.net/images/og-image.webp)
 ---
 
-[YGPY.net](https://ygpy.net/) 是一个免费机场加速器vpn推荐网站。涵盖免费机场、机场推荐、机场vpn、免费vpn、加速器vpn、免费加速器等。在这里找到价格折扣、促销活动以及免费试用的机会。
+[YGPY.net](https://ygpy.net/) 是一个免费 VPN 和机场资源导航网站，提供 Clash、V2Ray、Trojan 等多种科学上网工具和免费节点，支持 Windows、macOS、安卓、iOS 等平台。网站收集了大量免费机场、优惠券、测速图和配置教程，方便出海人 0 成本畅游全球网络和解锁流媒体。还提供实时更新的电报群推送和多协议支持，帮助出海人轻松突破网络限制，实现安全高速的科学上网体验。
 
 **关注我们**
 
-- [YouTube](https://www.youtube.com/@ygpy)
+- [YouTube](https://www.youtube.com/@ygpy_net)
 - [Instagram](https://www.instagram.com/ygpy_net/)
 - [X (Twitter)](https://x.com/ygpy_net)
 - [Pinterest](https://www.pinterest.com/ygpy_net/)
