@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.GN2KR2Va.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vpn/index.md","filePath":"vpn/index.md","lastUpdated":1750347409000}'),n={name:"vpn/index.md"};function r(o,s,d,c,p,i){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
